@@ -1,0 +1,7272 @@
+{
+ "id": "giai-20260729-181043",
+ "updatedAt": "2026-07-30T02:20:01",
+ "tournament": {
+  "name": "CUP_ASEAN",
+  "location": "THPT Hùng Vương",
+  "organizer": "Thầy ÂN",
+  "startDate": "2026-07-30",
+  "numDays": 10,
+  "status": "sap_dien_ra",
+  "sessions": [
+   {
+    "name": "Sáng",
+    "start": "07:30",
+    "end": "11:30",
+    "courts": 4
+   },
+   {
+    "name": "Chiều",
+    "start": "13:30",
+    "end": "17:30",
+    "courts": 4
+   },
+   {
+    "name": "Tối",
+    "start": "18:30",
+    "end": "23:30",
+    "courts": 4
+   }
+  ]
+ },
+ "players": [
+  {
+   "id": "P001",
+   "name": "Hoàng Minh Khánh",
+   "gender": "M",
+   "club": "CLB Quận 1",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P002",
+   "name": "Phạm Thành Sơn",
+   "gender": "M",
+   "club": "CLB Quận 1",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P003",
+   "name": "Trịnh Thanh Khánh",
+   "gender": "M",
+   "club": "CLB Quận 1",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P004",
+   "name": "Phạm Thành Dũng",
+   "gender": "M",
+   "club": "CLB Quận 1",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P005",
+   "name": "Huỳnh Thanh Dũng",
+   "gender": "M",
+   "club": "CLB Quận 1",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P006",
+   "name": "Nguyễn Thành Phúc",
+   "gender": "M",
+   "club": "CLB Quận 1",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P007",
+   "name": "Bùi Minh Tài",
+   "gender": "M",
+   "club": "CLB Quận 1",
+   "events": []
+  },
+  {
+   "id": "P008",
+   "name": "Nguyễn Văn Hùng",
+   "gender": "M",
+   "club": "CLB Quận 1",
+   "events": []
+  },
+  {
+   "id": "P009",
+   "name": "Nguyễn Thị Ngọc",
+   "gender": "F",
+   "club": "CLB Quận 1",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P010",
+   "name": "Đặng Thị Quỳnh",
+   "gender": "F",
+   "club": "CLB Quận 1",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P011",
+   "name": "Nguyễn Thị Vy",
+   "gender": "F",
+   "club": "CLB Quận 1",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P012",
+   "name": "Bùi Thị Trang",
+   "gender": "F",
+   "club": "CLB Quận 1",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P013",
+   "name": "Trịnh Thị Chi",
+   "gender": "F",
+   "club": "CLB Quận 1",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P014",
+   "name": "Bùi Thị Thu",
+   "gender": "F",
+   "club": "CLB Quận 1",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P015",
+   "name": "Lý Hữu Phúc",
+   "gender": "M",
+   "club": "CLB Quận 3",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P016",
+   "name": "Đặng Đức Long",
+   "gender": "M",
+   "club": "CLB Quận 3",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P017",
+   "name": "Trịnh Hữu Quân",
+   "gender": "M",
+   "club": "CLB Quận 3",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P018",
+   "name": "Trần Thành Long",
+   "gender": "M",
+   "club": "CLB Quận 3",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P019",
+   "name": "Huỳnh Thanh Khoa",
+   "gender": "M",
+   "club": "CLB Quận 3",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P020",
+   "name": "Phan Hữu Tài",
+   "gender": "M",
+   "club": "CLB Quận 3",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P021",
+   "name": "Lê Thành Cường",
+   "gender": "M",
+   "club": "CLB Quận 3",
+   "events": []
+  },
+  {
+   "id": "P022",
+   "name": "Phạm Quốc Dũng",
+   "gender": "M",
+   "club": "CLB Quận 3",
+   "events": []
+  },
+  {
+   "id": "P023",
+   "name": "Huỳnh Thị Nga",
+   "gender": "F",
+   "club": "CLB Quận 3",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P024",
+   "name": "Trịnh Thị Chi",
+   "gender": "F",
+   "club": "CLB Quận 3",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P025",
+   "name": "Trịnh Thị Giang",
+   "gender": "F",
+   "club": "CLB Quận 3",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P026",
+   "name": "Đỗ Thị Dung",
+   "gender": "F",
+   "club": "CLB Quận 3",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P027",
+   "name": "Huỳnh Thị Linh",
+   "gender": "F",
+   "club": "CLB Quận 3",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P028",
+   "name": "Võ Thị Chi",
+   "gender": "F",
+   "club": "CLB Quận 3",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P029",
+   "name": "Nguyễn Thanh Tài",
+   "gender": "M",
+   "club": "CLB Quận 5",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P030",
+   "name": "Hoàng Hữu Việt",
+   "gender": "M",
+   "club": "CLB Quận 5",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P031",
+   "name": "Đặng Thanh Dũng",
+   "gender": "M",
+   "club": "CLB Quận 5",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P032",
+   "name": "Trịnh Anh Bình",
+   "gender": "M",
+   "club": "CLB Quận 5",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P033",
+   "name": "Đặng Hữu Tùng",
+   "gender": "M",
+   "club": "CLB Quận 5",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P034",
+   "name": "Trịnh Anh Việt",
+   "gender": "M",
+   "club": "CLB Quận 5",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P035",
+   "name": "Phan Văn Dũng",
+   "gender": "M",
+   "club": "CLB Quận 5",
+   "events": []
+  },
+  {
+   "id": "P036",
+   "name": "Lý Thành Hiếu",
+   "gender": "M",
+   "club": "CLB Quận 5",
+   "events": []
+  },
+  {
+   "id": "P037",
+   "name": "Nguyễn Thị Hồng",
+   "gender": "F",
+   "club": "CLB Quận 5",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P038",
+   "name": "Võ Thị Vy",
+   "gender": "F",
+   "club": "CLB Quận 5",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P039",
+   "name": "Võ Thị Hà",
+   "gender": "F",
+   "club": "CLB Quận 5",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P040",
+   "name": "Ngô Thị Hà",
+   "gender": "F",
+   "club": "CLB Quận 5",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P041",
+   "name": "Lê Thị Hoa",
+   "gender": "F",
+   "club": "CLB Quận 5",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P042",
+   "name": "Nguyễn Thị Yến",
+   "gender": "F",
+   "club": "CLB Quận 5",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P043",
+   "name": "Võ Đức Khoa",
+   "gender": "M",
+   "club": "CLB Quận 7",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P044",
+   "name": "Mai Anh Tài",
+   "gender": "M",
+   "club": "CLB Quận 7",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P045",
+   "name": "Trịnh Minh Cường",
+   "gender": "M",
+   "club": "CLB Quận 7",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P046",
+   "name": "Đỗ Thanh Phúc",
+   "gender": "M",
+   "club": "CLB Quận 7",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P047",
+   "name": "Vũ Gia Phong",
+   "gender": "M",
+   "club": "CLB Quận 7",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P048",
+   "name": "Phạm Đức Bình",
+   "gender": "M",
+   "club": "CLB Quận 7",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P049",
+   "name": "Đặng Thanh Hiếu",
+   "gender": "M",
+   "club": "CLB Quận 7",
+   "events": []
+  },
+  {
+   "id": "P050",
+   "name": "Bùi Văn Vinh",
+   "gender": "M",
+   "club": "CLB Quận 7",
+   "events": []
+  },
+  {
+   "id": "P051",
+   "name": "Hoàng Thị Chi",
+   "gender": "F",
+   "club": "CLB Quận 7",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P052",
+   "name": "Võ Thị Thảo",
+   "gender": "F",
+   "club": "CLB Quận 7",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P053",
+   "name": "Vũ Thị Yến",
+   "gender": "F",
+   "club": "CLB Quận 7",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P054",
+   "name": "Bùi Thị Yến",
+   "gender": "F",
+   "club": "CLB Quận 7",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P055",
+   "name": "Mai Thị Nga",
+   "gender": "F",
+   "club": "CLB Quận 7",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P056",
+   "name": "Nguyễn Thị Trang",
+   "gender": "F",
+   "club": "CLB Quận 7",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P057",
+   "name": "Đỗ Đức Hải",
+   "gender": "M",
+   "club": "CLB Quận 9",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P058",
+   "name": "Vũ Đức Hải",
+   "gender": "M",
+   "club": "CLB Quận 9",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P059",
+   "name": "Nguyễn Hữu Dũng",
+   "gender": "M",
+   "club": "CLB Quận 9",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P060",
+   "name": "Đặng Thành Khánh",
+   "gender": "M",
+   "club": "CLB Quận 9",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P061",
+   "name": "Trần Thanh Long",
+   "gender": "M",
+   "club": "CLB Quận 9",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P062",
+   "name": "Phan Minh Nam",
+   "gender": "M",
+   "club": "CLB Quận 9",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P063",
+   "name": "Vũ Gia Bình",
+   "gender": "M",
+   "club": "CLB Quận 9",
+   "events": []
+  },
+  {
+   "id": "P064",
+   "name": "Phạm Thanh Tài",
+   "gender": "M",
+   "club": "CLB Quận 9",
+   "events": []
+  },
+  {
+   "id": "P065",
+   "name": "Trịnh Thị An",
+   "gender": "F",
+   "club": "CLB Quận 9",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P066",
+   "name": "Lý Thị An",
+   "gender": "F",
+   "club": "CLB Quận 9",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P067",
+   "name": "Huỳnh Thị Nga",
+   "gender": "F",
+   "club": "CLB Quận 9",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P068",
+   "name": "Nguyễn Thị Lan",
+   "gender": "F",
+   "club": "CLB Quận 9",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P069",
+   "name": "Đặng Thị Quỳnh",
+   "gender": "F",
+   "club": "CLB Quận 9",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P070",
+   "name": "Hoàng Thị Thảo",
+   "gender": "F",
+   "club": "CLB Quận 9",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P071",
+   "name": "Trần Minh Đạt",
+   "gender": "M",
+   "club": "CLB Quận 10",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P072",
+   "name": "Võ Quốc Việt",
+   "gender": "M",
+   "club": "CLB Quận 10",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P073",
+   "name": "Đặng Đức Phong",
+   "gender": "M",
+   "club": "CLB Quận 10",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P074",
+   "name": "Ngô Anh Phúc",
+   "gender": "M",
+   "club": "CLB Quận 10",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P075",
+   "name": "Lý Minh Phúc",
+   "gender": "M",
+   "club": "CLB Quận 10",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P076",
+   "name": "Bùi Thành Khoa",
+   "gender": "M",
+   "club": "CLB Quận 10",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P077",
+   "name": "Phạm Anh Hùng",
+   "gender": "M",
+   "club": "CLB Quận 10",
+   "events": []
+  },
+  {
+   "id": "P078",
+   "name": "Vũ Minh Vinh",
+   "gender": "M",
+   "club": "CLB Quận 10",
+   "events": []
+  },
+  {
+   "id": "P079",
+   "name": "Hoàng Thị Hà",
+   "gender": "F",
+   "club": "CLB Quận 10",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P080",
+   "name": "Lý Thị Hà",
+   "gender": "F",
+   "club": "CLB Quận 10",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P081",
+   "name": "Huỳnh Thị Hà",
+   "gender": "F",
+   "club": "CLB Quận 10",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P082",
+   "name": "Bùi Thị Chi",
+   "gender": "F",
+   "club": "CLB Quận 10",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P083",
+   "name": "Lê Thị Ngọc",
+   "gender": "F",
+   "club": "CLB Quận 10",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P084",
+   "name": "Phan Thị Quỳnh",
+   "gender": "F",
+   "club": "CLB Quận 10",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P085",
+   "name": "Phạm Văn Hiếu",
+   "gender": "M",
+   "club": "CLB Bình Thạnh",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P086",
+   "name": "Bùi Thanh Hiếu",
+   "gender": "M",
+   "club": "CLB Bình Thạnh",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P087",
+   "name": "Phạm Thành Hùng",
+   "gender": "M",
+   "club": "CLB Bình Thạnh",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P088",
+   "name": "Bùi Quốc Hiếu",
+   "gender": "M",
+   "club": "CLB Bình Thạnh",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P089",
+   "name": "Vũ Thanh Bình",
+   "gender": "M",
+   "club": "CLB Bình Thạnh",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P090",
+   "name": "Đỗ Hữu Phúc",
+   "gender": "M",
+   "club": "CLB Bình Thạnh",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P091",
+   "name": "Trịnh Anh Khoa",
+   "gender": "M",
+   "club": "CLB Bình Thạnh",
+   "events": []
+  },
+  {
+   "id": "P092",
+   "name": "Đặng Anh Khánh",
+   "gender": "M",
+   "club": "CLB Bình Thạnh",
+   "events": []
+  },
+  {
+   "id": "P093",
+   "name": "Nguyễn Thị An",
+   "gender": "F",
+   "club": "CLB Bình Thạnh",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P094",
+   "name": "Đỗ Thị An",
+   "gender": "F",
+   "club": "CLB Bình Thạnh",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P095",
+   "name": "Lý Thị Thu",
+   "gender": "F",
+   "club": "CLB Bình Thạnh",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P096",
+   "name": "Huỳnh Thị Phương",
+   "gender": "F",
+   "club": "CLB Bình Thạnh",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P097",
+   "name": "Huỳnh Thị Hoa",
+   "gender": "F",
+   "club": "CLB Bình Thạnh",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P098",
+   "name": "Lê Thị Thảo",
+   "gender": "F",
+   "club": "CLB Bình Thạnh",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P099",
+   "name": "Đỗ Gia Hùng",
+   "gender": "M",
+   "club": "CLB Gò Vấp",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P100",
+   "name": "Phan Minh Khoa",
+   "gender": "M",
+   "club": "CLB Gò Vấp",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P101",
+   "name": "Lê Thành Đạt",
+   "gender": "M",
+   "club": "CLB Gò Vấp",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P102",
+   "name": "Lý Gia Sơn",
+   "gender": "M",
+   "club": "CLB Gò Vấp",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P103",
+   "name": "Đỗ Văn Quân",
+   "gender": "M",
+   "club": "CLB Gò Vấp",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P104",
+   "name": "Võ Anh Dũng",
+   "gender": "M",
+   "club": "CLB Gò Vấp",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P105",
+   "name": "Đỗ Gia Tài",
+   "gender": "M",
+   "club": "CLB Gò Vấp",
+   "events": []
+  },
+  {
+   "id": "P106",
+   "name": "Phạm Hữu Hiếu",
+   "gender": "M",
+   "club": "CLB Gò Vấp",
+   "events": []
+  },
+  {
+   "id": "P107",
+   "name": "Lê Thị Hồng",
+   "gender": "F",
+   "club": "CLB Gò Vấp",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P108",
+   "name": "Bùi Thị Chi",
+   "gender": "F",
+   "club": "CLB Gò Vấp",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P109",
+   "name": "Bùi Thị Quỳnh",
+   "gender": "F",
+   "club": "CLB Gò Vấp",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P110",
+   "name": "Lê Thị Nga",
+   "gender": "F",
+   "club": "CLB Gò Vấp",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P111",
+   "name": "Lê Thị Hoa",
+   "gender": "F",
+   "club": "CLB Gò Vấp",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P112",
+   "name": "Nguyễn Thị Hạnh",
+   "gender": "F",
+   "club": "CLB Gò Vấp",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P113",
+   "name": "Hoàng Anh Khoa",
+   "gender": "M",
+   "club": "CLB Quận 12",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P114",
+   "name": "Phạm Hữu An",
+   "gender": "M",
+   "club": "CLB Quận 12",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P115",
+   "name": "Đỗ Quốc Khánh",
+   "gender": "M",
+   "club": "CLB Quận 12",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P116",
+   "name": "Hoàng Hữu Đạt",
+   "gender": "M",
+   "club": "CLB Quận 12",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P117",
+   "name": "Lý Hữu Long",
+   "gender": "M",
+   "club": "CLB Quận 12",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P118",
+   "name": "Võ Đức Việt",
+   "gender": "M",
+   "club": "CLB Quận 12",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P119",
+   "name": "Võ Văn Phúc",
+   "gender": "M",
+   "club": "CLB Quận 12",
+   "events": []
+  },
+  {
+   "id": "P120",
+   "name": "Ngô Minh Bình",
+   "gender": "M",
+   "club": "CLB Quận 12",
+   "events": []
+  },
+  {
+   "id": "P121",
+   "name": "Vũ Thị Trang",
+   "gender": "F",
+   "club": "CLB Quận 12",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P122",
+   "name": "Ngô Thị Vy",
+   "gender": "F",
+   "club": "CLB Quận 12",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P123",
+   "name": "Mai Thị Yến",
+   "gender": "F",
+   "club": "CLB Quận 12",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P124",
+   "name": "Mai Thị Giang",
+   "gender": "F",
+   "club": "CLB Quận 12",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P125",
+   "name": "Huỳnh Thị Quỳnh",
+   "gender": "F",
+   "club": "CLB Quận 12",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P126",
+   "name": "Võ Thị Phương",
+   "gender": "F",
+   "club": "CLB Quận 12",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P127",
+   "name": "Ngô Thanh Việt",
+   "gender": "M",
+   "club": "CLB Tân Bình",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P128",
+   "name": "Huỳnh Quốc An",
+   "gender": "M",
+   "club": "CLB Tân Bình",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P129",
+   "name": "Lê Gia Tùng",
+   "gender": "M",
+   "club": "CLB Tân Bình",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P130",
+   "name": "Nguyễn Quốc Vinh",
+   "gender": "M",
+   "club": "CLB Tân Bình",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P131",
+   "name": "Lý Hữu Việt",
+   "gender": "M",
+   "club": "CLB Tân Bình",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P132",
+   "name": "Bùi Gia Sơn",
+   "gender": "M",
+   "club": "CLB Tân Bình",
+   "events": [
+    "MS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P133",
+   "name": "Trịnh Thành Phúc",
+   "gender": "M",
+   "club": "CLB Tân Bình",
+   "events": []
+  },
+  {
+   "id": "P134",
+   "name": "Vũ Anh Đạt",
+   "gender": "M",
+   "club": "CLB Tân Bình",
+   "events": []
+  },
+  {
+   "id": "P135",
+   "name": "Ngô Thị Hồng",
+   "gender": "F",
+   "club": "CLB Tân Bình",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P136",
+   "name": "Trần Thị Giang",
+   "gender": "F",
+   "club": "CLB Tân Bình",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P137",
+   "name": "Phan Thị Hồng",
+   "gender": "F",
+   "club": "CLB Tân Bình",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P138",
+   "name": "Đặng Thị Ngọc",
+   "gender": "F",
+   "club": "CLB Tân Bình",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P139",
+   "name": "Đỗ Thị Phương",
+   "gender": "F",
+   "club": "CLB Tân Bình",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P140",
+   "name": "Phan Thị Mai",
+   "gender": "F",
+   "club": "CLB Tân Bình",
+   "events": [
+    "WS"
+   ]
+  }
+ ],
+ "teams": [
+  {
+   "id": "T001",
+   "name": "Huỳnh Thanh Dũng / Nguyễn Thị Vy",
+   "club": "CLB Quận 1",
+   "eventId": "XD",
+   "playerIds": [
+    "P005",
+    "P011"
+   ]
+  },
+  {
+   "id": "T002",
+   "name": "Nguyễn Thành Phúc / Bùi Thị Trang",
+   "club": "CLB Quận 1",
+   "eventId": "XD",
+   "playerIds": [
+    "P006",
+    "P012"
+   ]
+  },
+  {
+   "id": "T003",
+   "name": "Huỳnh Thanh Khoa / Trịnh Thị Giang",
+   "club": "CLB Quận 3",
+   "eventId": "XD",
+   "playerIds": [
+    "P019",
+    "P025"
+   ]
+  },
+  {
+   "id": "T004",
+   "name": "Phan Hữu Tài / Đỗ Thị Dung",
+   "club": "CLB Quận 3",
+   "eventId": "XD",
+   "playerIds": [
+    "P020",
+    "P026"
+   ]
+  },
+  {
+   "id": "T005",
+   "name": "Đặng Hữu Tùng / Võ Thị Hà",
+   "club": "CLB Quận 5",
+   "eventId": "XD",
+   "playerIds": [
+    "P033",
+    "P039"
+   ]
+  },
+  {
+   "id": "T006",
+   "name": "Trịnh Anh Việt / Ngô Thị Hà",
+   "club": "CLB Quận 5",
+   "eventId": "XD",
+   "playerIds": [
+    "P034",
+    "P040"
+   ]
+  },
+  {
+   "id": "T007",
+   "name": "Vũ Gia Phong / Vũ Thị Yến",
+   "club": "CLB Quận 7",
+   "eventId": "XD",
+   "playerIds": [
+    "P047",
+    "P053"
+   ]
+  },
+  {
+   "id": "T008",
+   "name": "Phạm Đức Bình / Bùi Thị Yến",
+   "club": "CLB Quận 7",
+   "eventId": "XD",
+   "playerIds": [
+    "P048",
+    "P054"
+   ]
+  },
+  {
+   "id": "T009",
+   "name": "Trần Thanh Long / Huỳnh Thị Nga",
+   "club": "CLB Quận 9",
+   "eventId": "XD",
+   "playerIds": [
+    "P061",
+    "P067"
+   ]
+  },
+  {
+   "id": "T010",
+   "name": "Phan Minh Nam / Nguyễn Thị Lan",
+   "club": "CLB Quận 9",
+   "eventId": "XD",
+   "playerIds": [
+    "P062",
+    "P068"
+   ]
+  },
+  {
+   "id": "T011",
+   "name": "Lý Minh Phúc / Huỳnh Thị Hà",
+   "club": "CLB Quận 10",
+   "eventId": "XD",
+   "playerIds": [
+    "P075",
+    "P081"
+   ]
+  },
+  {
+   "id": "T012",
+   "name": "Bùi Thành Khoa / Bùi Thị Chi",
+   "club": "CLB Quận 10",
+   "eventId": "XD",
+   "playerIds": [
+    "P076",
+    "P082"
+   ]
+  },
+  {
+   "id": "T013",
+   "name": "Vũ Thanh Bình / Lý Thị Thu",
+   "club": "CLB Bình Thạnh",
+   "eventId": "XD",
+   "playerIds": [
+    "P089",
+    "P095"
+   ]
+  },
+  {
+   "id": "T014",
+   "name": "Đỗ Hữu Phúc / Huỳnh Thị Phương",
+   "club": "CLB Bình Thạnh",
+   "eventId": "XD",
+   "playerIds": [
+    "P090",
+    "P096"
+   ]
+  },
+  {
+   "id": "T015",
+   "name": "Đỗ Văn Quân / Bùi Thị Quỳnh",
+   "club": "CLB Gò Vấp",
+   "eventId": "XD",
+   "playerIds": [
+    "P103",
+    "P109"
+   ]
+  },
+  {
+   "id": "T016",
+   "name": "Võ Anh Dũng / Lê Thị Nga",
+   "club": "CLB Gò Vấp",
+   "eventId": "XD",
+   "playerIds": [
+    "P104",
+    "P110"
+   ]
+  },
+  {
+   "id": "T017",
+   "name": "Lý Hữu Long / Mai Thị Yến",
+   "club": "CLB Quận 12",
+   "eventId": "XD",
+   "playerIds": [
+    "P117",
+    "P123"
+   ]
+  },
+  {
+   "id": "T018",
+   "name": "Võ Đức Việt / Mai Thị Giang",
+   "club": "CLB Quận 12",
+   "eventId": "XD",
+   "playerIds": [
+    "P118",
+    "P124"
+   ]
+  },
+  {
+   "id": "T019",
+   "name": "Lý Hữu Việt / Phan Thị Hồng",
+   "club": "CLB Tân Bình",
+   "eventId": "XD",
+   "playerIds": [
+    "P131",
+    "P137"
+   ]
+  },
+  {
+   "id": "T020",
+   "name": "Bùi Gia Sơn / Đặng Thị Ngọc",
+   "club": "CLB Tân Bình",
+   "eventId": "XD",
+   "playerIds": [
+    "P132",
+    "P138"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "code": "MS",
+   "name": "Đơn nam",
+   "type": "don",
+   "format": "knockout",
+   "locked": true,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": null,
+   "standings": {},
+   "ranking": []
+  },
+  {
+   "code": "WS",
+   "name": "Đơn nữ",
+   "type": "don",
+   "format": "knockout",
+   "locked": false,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": null,
+   "standings": {},
+   "ranking": []
+  },
+  {
+   "code": "XD",
+   "name": "Đôi nam nữ",
+   "type": "doi",
+   "format": "group_ko",
+   "locked": false,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": null,
+   "standings": {
+    "A": [
+     {
+      "id": "T004",
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "points": 2,
+      "setWon": 2,
+      "setLost": 0,
+      "ptWon": 42,
+      "ptLost": 3,
+      "rank": 1,
+      "display": {
+       "id": "T004",
+       "name": "Phan Hữu Tài / Đỗ Thị Dung",
+       "club": "CLB Quận 3"
+      }
+     },
+     {
+      "id": "T017",
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "points": 1,
+      "setWon": 0,
+      "setLost": 2,
+      "ptWon": 3,
+      "ptLost": 42,
+      "rank": 2,
+      "display": {
+       "id": "T017",
+       "name": "Lý Hữu Long / Mai Thị Yến",
+       "club": "CLB Quận 12"
+      }
+     },
+     {
+      "id": "T005",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 3,
+      "display": {
+       "id": "T005",
+       "name": "Đặng Hữu Tùng / Võ Thị Hà",
+       "club": "CLB Quận 5"
+      }
+     },
+     {
+      "id": "T016",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 4,
+      "display": {
+       "id": "T016",
+       "name": "Võ Anh Dũng / Lê Thị Nga",
+       "club": "CLB Gò Vấp"
+      }
+     }
+    ],
+    "B": [
+     {
+      "id": "T002",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 1,
+      "display": {
+       "id": "T002",
+       "name": "Nguyễn Thành Phúc / Bùi Thị Trang",
+       "club": "CLB Quận 1"
+      }
+     },
+     {
+      "id": "T007",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 2,
+      "display": {
+       "id": "T007",
+       "name": "Vũ Gia Phong / Vũ Thị Yến",
+       "club": "CLB Quận 7"
+      }
+     },
+     {
+      "id": "T010",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 3,
+      "display": {
+       "id": "T010",
+       "name": "Phan Minh Nam / Nguyễn Thị Lan",
+       "club": "CLB Quận 9"
+      }
+     },
+     {
+      "id": "T013",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 4,
+      "display": {
+       "id": "T013",
+       "name": "Vũ Thanh Bình / Lý Thị Thu",
+       "club": "CLB Bình Thạnh"
+      }
+     }
+    ],
+    "C": [
+     {
+      "id": "T006",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 1,
+      "display": {
+       "id": "T006",
+       "name": "Trịnh Anh Việt / Ngô Thị Hà",
+       "club": "CLB Quận 5"
+      }
+     },
+     {
+      "id": "T011",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 2,
+      "display": {
+       "id": "T011",
+       "name": "Lý Minh Phúc / Huỳnh Thị Hà",
+       "club": "CLB Quận 10"
+      }
+     },
+     {
+      "id": "T014",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 3,
+      "display": {
+       "id": "T014",
+       "name": "Đỗ Hữu Phúc / Huỳnh Thị Phương",
+       "club": "CLB Bình Thạnh"
+      }
+     },
+     {
+      "id": "T019",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 4,
+      "display": {
+       "id": "T019",
+       "name": "Lý Hữu Việt / Phan Thị Hồng",
+       "club": "CLB Tân Bình"
+      }
+     }
+    ],
+    "D": [
+     {
+      "id": "T001",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 1,
+      "display": {
+       "id": "T001",
+       "name": "Huỳnh Thanh Dũng / Nguyễn Thị Vy",
+       "club": "CLB Quận 1"
+      }
+     },
+     {
+      "id": "T003",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 2,
+      "display": {
+       "id": "T003",
+       "name": "Huỳnh Thanh Khoa / Trịnh Thị Giang",
+       "club": "CLB Quận 3"
+      }
+     },
+     {
+      "id": "T008",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 3,
+      "display": {
+       "id": "T008",
+       "name": "Phạm Đức Bình / Bùi Thị Yến",
+       "club": "CLB Quận 7"
+      }
+     },
+     {
+      "id": "T012",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 4,
+      "display": {
+       "id": "T012",
+       "name": "Bùi Thành Khoa / Bùi Thị Chi",
+       "club": "CLB Quận 10"
+      }
+     }
+    ],
+    "E": [
+     {
+      "id": "T009",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 1,
+      "display": {
+       "id": "T009",
+       "name": "Trần Thanh Long / Huỳnh Thị Nga",
+       "club": "CLB Quận 9"
+      }
+     },
+     {
+      "id": "T015",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 2,
+      "display": {
+       "id": "T015",
+       "name": "Đỗ Văn Quân / Bùi Thị Quỳnh",
+       "club": "CLB Gò Vấp"
+      }
+     },
+     {
+      "id": "T018",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 3,
+      "display": {
+       "id": "T018",
+       "name": "Võ Đức Việt / Mai Thị Giang",
+       "club": "CLB Quận 12"
+      }
+     },
+     {
+      "id": "T020",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 4,
+      "display": {
+       "id": "T020",
+       "name": "Bùi Gia Sơn / Đặng Thị Ngọc",
+       "club": "CLB Tân Bình"
+      }
+     }
+    ]
+   },
+   "ranking": []
+  }
+ ],
+ "matches": [
+  {
+   "id": "MS-R1-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 1,
+   "sideA": {
+    "id": "P075",
+    "name": "Lý Minh Phúc",
+    "club": "CLB Quận 10"
+   },
+   "sideB": {
+    "id": "P128",
+    "name": "Huỳnh Quốc An",
+    "club": "CLB Tân Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-2",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 2,
+   "sideA": {
+    "id": "P003",
+    "name": "Trịnh Thanh Khánh",
+    "club": "CLB Quận 1"
+   },
+   "sideB": {
+    "id": "P016",
+    "name": "Đặng Đức Long",
+    "club": "CLB Quận 3"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "08:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-3",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 3,
+   "sideA": {
+    "id": "P033",
+    "name": "Đặng Hữu Tùng",
+    "club": "CLB Quận 5"
+   },
+   "sideB": {
+    "id": "P101",
+    "name": "Lê Thành Đạt",
+    "club": "CLB Gò Vấp"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "21:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-4",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 4,
+   "sideA": {
+    "id": "P118",
+    "name": "Võ Đức Việt",
+    "club": "CLB Quận 12"
+   },
+   "sideB": null,
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": null,
+   "dayLabel": null,
+   "session": null,
+   "court": null,
+   "time": null,
+   "sets": [],
+   "walkover": "BYE",
+   "winner": "P118",
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-5",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 5,
+   "sideA": {
+    "id": "P100",
+    "name": "Phan Minh Khoa",
+    "club": "CLB Gò Vấp"
+   },
+   "sideB": null,
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": null,
+   "dayLabel": null,
+   "session": null,
+   "court": null,
+   "time": null,
+   "sets": [],
+   "walkover": "BYE",
+   "winner": "P100",
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-6",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 6,
+   "sideA": {
+    "id": "P057",
+    "name": "Đỗ Đức Hải",
+    "club": "CLB Quận 9"
+   },
+   "sideB": {
+    "id": "P005",
+    "name": "Huỳnh Thanh Dũng",
+    "club": "CLB Quận 1"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-7",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 7,
+   "sideA": {
+    "id": "P015",
+    "name": "Lý Hữu Phúc",
+    "club": "CLB Quận 3"
+   },
+   "sideB": {
+    "id": "P001",
+    "name": "Hoàng Minh Khánh",
+    "club": "CLB Quận 1"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 2,
+   "time": "08:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-8",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 8,
+   "sideA": {
+    "id": "P029",
+    "name": "Nguyễn Thanh Tài",
+    "club": "CLB Quận 5"
+   },
+   "sideB": {
+    "id": "P045",
+    "name": "Trịnh Minh Cường",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 3,
+   "time": "08:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-9",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 9,
+   "sideA": {
+    "id": "P076",
+    "name": "Bùi Thành Khoa",
+    "club": "CLB Quận 10"
+   },
+   "sideB": {
+    "id": "P087",
+    "name": "Phạm Thành Hùng",
+    "club": "CLB Bình Thạnh"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-10",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 10,
+   "sideA": {
+    "id": "P019",
+    "name": "Huỳnh Thanh Khoa",
+    "club": "CLB Quận 3"
+   },
+   "sideB": {
+    "id": "P127",
+    "name": "Ngô Thanh Việt",
+    "club": "CLB Tân Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-11",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 11,
+   "sideA": {
+    "id": "P104",
+    "name": "Võ Anh Dũng",
+    "club": "CLB Gò Vấp"
+   },
+   "sideB": {
+    "id": "P130",
+    "name": "Nguyễn Quốc Vinh",
+    "club": "CLB Tân Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "22:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-12",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 12,
+   "sideA": {
+    "id": "P129",
+    "name": "Lê Gia Tùng",
+    "club": "CLB Tân Bình"
+   },
+   "sideB": {
+    "id": "P030",
+    "name": "Hoàng Hữu Việt",
+    "club": "CLB Quận 5"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 4,
+   "time": "08:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-13",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 13,
+   "sideA": {
+    "id": "P004",
+    "name": "Phạm Thành Dũng",
+    "club": "CLB Quận 1"
+   },
+   "sideB": {
+    "id": "P058",
+    "name": "Vũ Đức Hải",
+    "club": "CLB Quận 9"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-14",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 14,
+   "sideA": {
+    "id": "P073",
+    "name": "Đặng Đức Phong",
+    "club": "CLB Quận 10"
+   },
+   "sideB": {
+    "id": "P090",
+    "name": "Đỗ Hữu Phúc",
+    "club": "CLB Bình Thạnh"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "22:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-15",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 15,
+   "sideA": {
+    "id": "P002",
+    "name": "Phạm Thành Sơn",
+    "club": "CLB Quận 1"
+   },
+   "sideB": {
+    "id": "P117",
+    "name": "Lý Hữu Long",
+    "club": "CLB Quận 12"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "22:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-16",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 16,
+   "sideA": {
+    "id": "P046",
+    "name": "Đỗ Thanh Phúc",
+    "club": "CLB Quận 7"
+   },
+   "sideB": {
+    "id": "P032",
+    "name": "Trịnh Anh Bình",
+    "club": "CLB Quận 5"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 2,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-17",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 17,
+   "sideA": {
+    "id": "P103",
+    "name": "Đỗ Văn Quân",
+    "club": "CLB Gò Vấp"
+   },
+   "sideB": {
+    "id": "P047",
+    "name": "Vũ Gia Phong",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 1,
+   "time": "16:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-18",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 18,
+   "sideA": {
+    "id": "P131",
+    "name": "Lý Hữu Việt",
+    "club": "CLB Tân Bình"
+   },
+   "sideB": {
+    "id": "P102",
+    "name": "Lý Gia Sơn",
+    "club": "CLB Gò Vấp"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "22:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-19",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 19,
+   "sideA": {
+    "id": "P006",
+    "name": "Nguyễn Thành Phúc",
+    "club": "CLB Quận 1"
+   },
+   "sideB": {
+    "id": "P031",
+    "name": "Đặng Thanh Dũng",
+    "club": "CLB Quận 5"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 2,
+   "time": "16:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-20",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 20,
+   "sideA": {
+    "id": "P060",
+    "name": "Đặng Thành Khánh",
+    "club": "CLB Quận 9"
+   },
+   "sideB": {
+    "id": "P017",
+    "name": "Trịnh Hữu Quân",
+    "club": "CLB Quận 3"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 3,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-21",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 21,
+   "sideA": {
+    "id": "P072",
+    "name": "Võ Quốc Việt",
+    "club": "CLB Quận 10"
+   },
+   "sideB": {
+    "id": "P020",
+    "name": "Phan Hữu Tài",
+    "club": "CLB Quận 3"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-22",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 22,
+   "sideA": {
+    "id": "P089",
+    "name": "Vũ Thanh Bình",
+    "club": "CLB Bình Thạnh"
+   },
+   "sideB": {
+    "id": "P018",
+    "name": "Trần Thành Long",
+    "club": "CLB Quận 3"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 3,
+   "time": "16:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-23",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 23,
+   "sideA": {
+    "id": "P115",
+    "name": "Đỗ Quốc Khánh",
+    "club": "CLB Quận 12"
+   },
+   "sideB": {
+    "id": "P034",
+    "name": "Trịnh Anh Việt",
+    "club": "CLB Quận 5"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-24",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 24,
+   "sideA": {
+    "id": "P044",
+    "name": "Mai Anh Tài",
+    "club": "CLB Quận 7"
+   },
+   "sideB": null,
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": null,
+   "dayLabel": null,
+   "session": null,
+   "court": null,
+   "time": null,
+   "sets": [],
+   "walkover": "BYE",
+   "winner": "P044",
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-25",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 25,
+   "sideA": {
+    "id": "P043",
+    "name": "Võ Đức Khoa",
+    "club": "CLB Quận 7"
+   },
+   "sideB": {
+    "id": "P086",
+    "name": "Bùi Thanh Hiếu",
+    "club": "CLB Bình Thạnh"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 4,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-26",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 26,
+   "sideA": {
+    "id": "P099",
+    "name": "Đỗ Gia Hùng",
+    "club": "CLB Gò Vấp"
+   },
+   "sideB": {
+    "id": "P116",
+    "name": "Hoàng Hữu Đạt",
+    "club": "CLB Quận 12"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "09:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-27",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 27,
+   "sideA": {
+    "id": "P113",
+    "name": "Hoàng Anh Khoa",
+    "club": "CLB Quận 12"
+   },
+   "sideB": {
+    "id": "P071",
+    "name": "Trần Minh Đạt",
+    "club": "CLB Quận 10"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 2,
+   "time": "09:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-28",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 28,
+   "sideA": {
+    "id": "P085",
+    "name": "Phạm Văn Hiếu",
+    "club": "CLB Bình Thạnh"
+   },
+   "sideB": {
+    "id": "P074",
+    "name": "Ngô Anh Phúc",
+    "club": "CLB Quận 10"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 3,
+   "time": "09:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-29",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 29,
+   "sideA": {
+    "id": "P059",
+    "name": "Nguyễn Hữu Dũng",
+    "club": "CLB Quận 9"
+   },
+   "sideB": {
+    "id": "P088",
+    "name": "Bùi Quốc Hiếu",
+    "club": "CLB Bình Thạnh"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 4,
+   "time": "16:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-30",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 30,
+   "sideA": null,
+   "sideB": {
+    "id": "P048",
+    "name": "Phạm Đức Bình",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": null,
+   "dayLabel": null,
+   "session": null,
+   "court": null,
+   "time": null,
+   "sets": [],
+   "walkover": "BYE",
+   "winner": "P048",
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-31",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 31,
+   "sideA": {
+    "id": "P132",
+    "name": "Bùi Gia Sơn",
+    "club": "CLB Tân Bình"
+   },
+   "sideB": {
+    "id": "P061",
+    "name": "Trần Thanh Long",
+    "club": "CLB Quận 9"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 4,
+   "time": "16:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-32",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 32,
+   "sideA": {
+    "id": "P062",
+    "name": "Phan Minh Nam",
+    "club": "CLB Quận 9"
+   },
+   "sideB": {
+    "id": "P114",
+    "name": "Phạm Hữu An",
+    "club": "CLB Quận 12"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 1,
+   "time": "17:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "19:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-2",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 2,
+   "sideA": null,
+   "sideB": {
+    "id": "P118",
+    "name": "Võ Đức Việt",
+    "club": "CLB Quận 12"
+   },
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-4"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 2,
+   "time": "08:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-3",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 3,
+   "sideA": {
+    "id": "P100",
+    "name": "Phan Minh Khoa",
+    "club": "CLB Gò Vấp"
+   },
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-5"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-6"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 2,
+   "time": "14:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-4",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 4,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-7"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-8"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "19:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-5",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 5,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-9"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-10"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 3,
+   "time": "08:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-6",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 6,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-11"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-12"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 3,
+   "time": "14:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-7",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 7,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-13"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-14"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "19:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-8",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 8,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-15"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-16"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 4,
+   "time": "08:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-9",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 9,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-17"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-18"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 4,
+   "time": "14:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-10",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 10,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-19"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-20"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "19:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-11",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 11,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-21"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-22"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-12",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 12,
+   "sideA": null,
+   "sideB": {
+    "id": "P044",
+    "name": "Mai Anh Tài",
+    "club": "CLB Quận 7"
+   },
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-23"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-24"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 1,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-13",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 13,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-25"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-26"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-14",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 14,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-27"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-28"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 2,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-15",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 15,
+   "sideA": null,
+   "sideB": {
+    "id": "P048",
+    "name": "Phạm Đức Bình",
+    "club": "CLB Quận 7"
+   },
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-29"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-30"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 2,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-16",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 16,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-31"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-32"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-2",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-4"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-3",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 3,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-5"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-6"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 2,
+   "time": "15:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-4",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 4,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-7"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-8"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-5",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 5,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-9"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-10"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "21:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-6",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 6,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-11"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-12"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 3,
+   "time": "15:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-7",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 7,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-13"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-14"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "21:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-8",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 8,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-15"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-16"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "21:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R4-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 4,
+   "roundName": "Tứ kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R3-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R3-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R4-2",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 4,
+   "roundName": "Tứ kết",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R3-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R3-4"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R4-3",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 4,
+   "roundName": "Tứ kết",
+   "pos": 3,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R3-5"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R3-6"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R4-4",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 4,
+   "roundName": "Tứ kết",
+   "pos": 4,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R3-7"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R3-8"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "22:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R5-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 5,
+   "roundName": "Bán kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R4-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R4-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R5-2",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 5,
+   "roundName": "Bán kết",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R4-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R4-4"
+   },
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "01/08/2026",
+   "session": 0,
+   "court": 1,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R6-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 6,
+   "roundName": "Chung kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R5-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R5-2"
+   },
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "01/08/2026",
+   "session": 0,
+   "court": 2,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-1",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 1,
+   "sideA": {
+    "id": "P122",
+    "name": "Ngô Thị Vy",
+    "club": "CLB Quận 12"
+   },
+   "sideB": {
+    "id": "P097",
+    "name": "Huỳnh Thị Hoa",
+    "club": "CLB Bình Thạnh"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 4,
+   "time": "09:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-2",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 2,
+   "sideA": {
+    "id": "P095",
+    "name": "Lý Thị Thu",
+    "club": "CLB Bình Thạnh"
+   },
+   "sideB": {
+    "id": "P112",
+    "name": "Nguyễn Thị Hạnh",
+    "club": "CLB Gò Vấp"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 2,
+   "time": "17:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-3",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 3,
+   "sideA": {
+    "id": "P107",
+    "name": "Lê Thị Hồng",
+    "club": "CLB Gò Vấp"
+   },
+   "sideB": {
+    "id": "P139",
+    "name": "Đỗ Thị Phương",
+    "club": "CLB Tân Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "09:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-4",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 4,
+   "sideA": {
+    "id": "P079",
+    "name": "Hoàng Thị Hà",
+    "club": "CLB Quận 10"
+   },
+   "sideB": {
+    "id": "P135",
+    "name": "Ngô Thị Hồng",
+    "club": "CLB Tân Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 2,
+   "time": "09:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-5",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 5,
+   "sideA": {
+    "id": "P080",
+    "name": "Lý Thị Hà",
+    "club": "CLB Quận 10"
+   },
+   "sideB": {
+    "id": "P065",
+    "name": "Trịnh Thị An",
+    "club": "CLB Quận 9"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 3,
+   "time": "09:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-6",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 6,
+   "sideA": {
+    "id": "P082",
+    "name": "Bùi Thị Chi",
+    "club": "CLB Quận 10"
+   },
+   "sideB": null,
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": null,
+   "dayLabel": null,
+   "session": null,
+   "court": null,
+   "time": null,
+   "sets": [],
+   "walkover": "BYE",
+   "winner": "P082",
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-7",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 7,
+   "sideA": {
+    "id": "P067",
+    "name": "Huỳnh Thị Nga",
+    "club": "CLB Quận 9"
+   },
+   "sideB": {
+    "id": "P051",
+    "name": "Hoàng Thị Chi",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 3,
+   "time": "17:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-8",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 8,
+   "sideA": {
+    "id": "P110",
+    "name": "Lê Thị Nga",
+    "club": "CLB Gò Vấp"
+   },
+   "sideB": {
+    "id": "P011",
+    "name": "Nguyễn Thị Vy",
+    "club": "CLB Quận 1"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-9",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 9,
+   "sideA": {
+    "id": "P069",
+    "name": "Đặng Thị Quỳnh",
+    "club": "CLB Quận 9"
+   },
+   "sideB": {
+    "id": "P138",
+    "name": "Đặng Thị Ngọc",
+    "club": "CLB Tân Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 4,
+   "time": "17:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-10",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 10,
+   "sideA": {
+    "id": "P137",
+    "name": "Phan Thị Hồng",
+    "club": "CLB Tân Bình"
+   },
+   "sideB": {
+    "id": "P055",
+    "name": "Mai Thị Nga",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-11",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 11,
+   "sideA": {
+    "id": "P027",
+    "name": "Huỳnh Thị Linh",
+    "club": "CLB Quận 3"
+   },
+   "sideB": {
+    "id": "P012",
+    "name": "Bùi Thị Trang",
+    "club": "CLB Quận 1"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-12",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 12,
+   "sideA": {
+    "id": "P066",
+    "name": "Lý Thị An",
+    "club": "CLB Quận 9"
+   },
+   "sideB": {
+    "id": "P009",
+    "name": "Nguyễn Thị Ngọc",
+    "club": "CLB Quận 1"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 4,
+   "time": "09:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-13",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 13,
+   "sideA": {
+    "id": "P111",
+    "name": "Lê Thị Hoa",
+    "club": "CLB Gò Vấp"
+   },
+   "sideB": {
+    "id": "P056",
+    "name": "Nguyễn Thị Trang",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "10:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-14",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 14,
+   "sideA": {
+    "id": "P068",
+    "name": "Nguyễn Thị Lan",
+    "club": "CLB Quận 9"
+   },
+   "sideB": null,
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": null,
+   "dayLabel": null,
+   "session": null,
+   "court": null,
+   "time": null,
+   "sets": [],
+   "walkover": "BYE",
+   "winner": "P068",
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-15",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 15,
+   "sideA": {
+    "id": "P093",
+    "name": "Nguyễn Thị An",
+    "club": "CLB Bình Thạnh"
+   },
+   "sideB": {
+    "id": "P083",
+    "name": "Lê Thị Ngọc",
+    "club": "CLB Quận 10"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 2,
+   "time": "10:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-16",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 16,
+   "sideA": {
+    "id": "P124",
+    "name": "Mai Thị Giang",
+    "club": "CLB Quận 12"
+   },
+   "sideB": {
+    "id": "P054",
+    "name": "Bùi Thị Yến",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 1,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-17",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 17,
+   "sideA": {
+    "id": "P040",
+    "name": "Ngô Thị Hà",
+    "club": "CLB Quận 5"
+   },
+   "sideB": null,
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": null,
+   "dayLabel": null,
+   "session": null,
+   "court": null,
+   "time": null,
+   "sets": [],
+   "walkover": "BYE",
+   "winner": "P040",
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-18",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 18,
+   "sideA": {
+    "id": "P014",
+    "name": "Bùi Thị Thu",
+    "club": "CLB Quận 1"
+   },
+   "sideB": {
+    "id": "P140",
+    "name": "Phan Thị Mai",
+    "club": "CLB Tân Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 3,
+   "time": "10:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-19",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 19,
+   "sideA": {
+    "id": "P070",
+    "name": "Hoàng Thị Thảo",
+    "club": "CLB Quận 9"
+   },
+   "sideB": {
+    "id": "P126",
+    "name": "Võ Thị Phương",
+    "club": "CLB Quận 12"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 4,
+   "time": "10:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-20",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 20,
+   "sideA": {
+    "id": "P123",
+    "name": "Mai Thị Yến",
+    "club": "CLB Quận 12"
+   },
+   "sideB": {
+    "id": "P028",
+    "name": "Võ Thị Chi",
+    "club": "CLB Quận 3"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-21",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 21,
+   "sideA": {
+    "id": "P042",
+    "name": "Nguyễn Thị Yến",
+    "club": "CLB Quận 5"
+   },
+   "sideB": {
+    "id": "P094",
+    "name": "Đỗ Thị An",
+    "club": "CLB Bình Thạnh"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "10:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-22",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 22,
+   "sideA": null,
+   "sideB": {
+    "id": "P010",
+    "name": "Đặng Thị Quỳnh",
+    "club": "CLB Quận 1"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": null,
+   "dayLabel": null,
+   "session": null,
+   "court": null,
+   "time": null,
+   "sets": [],
+   "walkover": "BYE",
+   "winner": "P010",
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-23",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 23,
+   "sideA": {
+    "id": "P013",
+    "name": "Trịnh Thị Chi",
+    "club": "CLB Quận 1"
+   },
+   "sideB": {
+    "id": "P098",
+    "name": "Lê Thị Thảo",
+    "club": "CLB Bình Thạnh"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 2,
+   "time": "10:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-24",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 24,
+   "sideA": {
+    "id": "P025",
+    "name": "Trịnh Thị Giang",
+    "club": "CLB Quận 3"
+   },
+   "sideB": {
+    "id": "P052",
+    "name": "Võ Thị Thảo",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 2,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-25",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 25,
+   "sideA": {
+    "id": "P136",
+    "name": "Trần Thị Giang",
+    "club": "CLB Tân Bình"
+   },
+   "sideB": {
+    "id": "P026",
+    "name": "Đỗ Thị Dung",
+    "club": "CLB Quận 3"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 2,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-26",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 26,
+   "sideA": {
+    "id": "P023",
+    "name": "Huỳnh Thị Nga",
+    "club": "CLB Quận 3"
+   },
+   "sideB": {
+    "id": "P084",
+    "name": "Phan Thị Quỳnh",
+    "club": "CLB Quận 10"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 3,
+   "time": "10:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-27",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 27,
+   "sideA": {
+    "id": "P038",
+    "name": "Võ Thị Vy",
+    "club": "CLB Quận 5"
+   },
+   "sideB": {
+    "id": "P109",
+    "name": "Bùi Thị Quỳnh",
+    "club": "CLB Gò Vấp"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-28",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 28,
+   "sideA": {
+    "id": "P121",
+    "name": "Vũ Thị Trang",
+    "club": "CLB Quận 12"
+   },
+   "sideB": {
+    "id": "P024",
+    "name": "Trịnh Thị Chi",
+    "club": "CLB Quận 3"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 4,
+   "time": "10:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-29",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 29,
+   "sideA": {
+    "id": "P039",
+    "name": "Võ Thị Hà",
+    "club": "CLB Quận 5"
+   },
+   "sideB": {
+    "id": "P125",
+    "name": "Huỳnh Thị Quỳnh",
+    "club": "CLB Quận 12"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 3,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-30",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 30,
+   "sideA": {
+    "id": "P081",
+    "name": "Huỳnh Thị Hà",
+    "club": "CLB Quận 10"
+   },
+   "sideB": {
+    "id": "P096",
+    "name": "Huỳnh Thị Phương",
+    "club": "CLB Bình Thạnh"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 3,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-31",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 31,
+   "sideA": {
+    "id": "P037",
+    "name": "Nguyễn Thị Hồng",
+    "club": "CLB Quận 5"
+   },
+   "sideB": {
+    "id": "P053",
+    "name": "Vũ Thị Yến",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R1-32",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/32",
+   "pos": 32,
+   "sideA": {
+    "id": "P041",
+    "name": "Lê Thị Hoa",
+    "club": "CLB Quận 5"
+   },
+   "sideB": {
+    "id": "P108",
+    "name": "Bùi Thị Chi",
+    "club": "CLB Gò Vấp"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "11:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-1",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 3,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-2",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-4"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 3,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-3",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 3,
+   "sideA": null,
+   "sideB": {
+    "id": "P082",
+    "name": "Bùi Thị Chi",
+    "club": "CLB Quận 10"
+   },
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-5"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-6"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-4",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 4,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-7"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-8"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 4,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-5",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 5,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-9"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-10"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 4,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-6",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 6,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-11"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-12"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-7",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 7,
+   "sideA": null,
+   "sideB": {
+    "id": "P068",
+    "name": "Nguyễn Thị Lan",
+    "club": "CLB Quận 9"
+   },
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-13"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-14"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "09:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-8",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 8,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-15"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-16"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 1,
+   "time": "15:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-9",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 9,
+   "sideA": {
+    "id": "P040",
+    "name": "Ngô Thị Hà",
+    "club": "CLB Quận 5"
+   },
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-17"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-18"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "20:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-10",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 10,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-19"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-20"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "20:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-11",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 11,
+   "sideA": null,
+   "sideB": {
+    "id": "P010",
+    "name": "Đặng Thị Quỳnh",
+    "club": "CLB Quận 1"
+   },
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-21"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-22"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 2,
+   "time": "09:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-12",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 12,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-23"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-24"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 2,
+   "time": "15:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-13",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 13,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-25"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-26"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 3,
+   "time": "15:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-14",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 14,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-27"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-28"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "20:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-15",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 15,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-29"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-30"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 4,
+   "time": "15:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R2-16",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/16",
+   "pos": 16,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R1-31"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R1-32"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "20:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R3-1",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R2-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R2-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 4,
+   "time": "15:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R3-2",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R2-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R2-4"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "21:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R3-3",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 3,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R2-5"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R2-6"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "21:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R3-4",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 4,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R2-7"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R2-8"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 1,
+   "time": "16:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R3-5",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 5,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R2-9"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R2-10"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "21:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R3-6",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 6,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R2-11"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R2-12"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 2,
+   "time": "16:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R3-7",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 7,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R2-13"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R2-14"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "21:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R3-8",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Vòng 1/8",
+   "pos": 8,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R2-15"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R2-16"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "21:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R4-1",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 4,
+   "roundName": "Tứ kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R3-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R3-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "22:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R4-2",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 4,
+   "roundName": "Tứ kết",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R3-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R3-4"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "22:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R4-3",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 4,
+   "roundName": "Tứ kết",
+   "pos": 3,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R3-5"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R3-6"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "22:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R4-4",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 4,
+   "roundName": "Tứ kết",
+   "pos": 4,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R3-7"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R3-8"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R5-1",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 5,
+   "roundName": "Bán kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R4-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R4-2"
+   },
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "01/08/2026",
+   "session": 1,
+   "court": 1,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R5-2",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 5,
+   "roundName": "Bán kết",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R4-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R4-4"
+   },
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "01/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-R6-1",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 6,
+   "roundName": "Chung kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "WS-R5-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "WS-R5-2"
+   },
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "01/08/2026",
+   "session": 2,
+   "court": 3,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "WS-3RD",
+   "eventId": "WS",
+   "eventName": "Đơn nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 6,
+   "roundName": "Tranh hạng 3–4",
+   "pos": 0,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "loser",
+    "match": "WS-R5-1"
+   },
+   "srcB": {
+    "type": "loser",
+    "match": "WS-R5-2"
+   },
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "01/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BA-L1-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "A",
+   "round": 1,
+   "roundName": "Bảng A · Lượt 1",
+   "pos": 1,
+   "sideA": {
+    "id": "T004",
+    "name": "Phan Hữu Tài / Đỗ Thị Dung",
+    "club": "CLB Quận 3"
+   },
+   "sideB": {
+    "id": "T017",
+    "name": "Lý Hữu Long / Mai Thị Yến",
+    "club": "CLB Quận 12"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "07:30",
+   "sets": [
+    [
+     21,
+     1
+    ],
+    [
+     21,
+     2
+    ]
+   ],
+   "walkover": null,
+   "winner": "T004",
+   "subMatches": null
+  },
+  {
+   "id": "XD-BA-L1-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "A",
+   "round": 1,
+   "roundName": "Bảng A · Lượt 1",
+   "pos": 2,
+   "sideA": {
+    "id": "T005",
+    "name": "Đặng Hữu Tùng / Võ Thị Hà",
+    "club": "CLB Quận 5"
+   },
+   "sideB": {
+    "id": "T016",
+    "name": "Võ Anh Dũng / Lê Thị Nga",
+    "club": "CLB Gò Vấp"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BA-L2-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "A",
+   "round": 2,
+   "roundName": "Bảng A · Lượt 2",
+   "pos": 1,
+   "sideA": {
+    "id": "T004",
+    "name": "Phan Hữu Tài / Đỗ Thị Dung",
+    "club": "CLB Quận 3"
+   },
+   "sideB": {
+    "id": "T016",
+    "name": "Võ Anh Dũng / Lê Thị Nga",
+    "club": "CLB Gò Vấp"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BA-L2-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "A",
+   "round": 2,
+   "roundName": "Bảng A · Lượt 2",
+   "pos": 2,
+   "sideA": {
+    "id": "T017",
+    "name": "Lý Hữu Long / Mai Thị Yến",
+    "club": "CLB Quận 12"
+   },
+   "sideB": {
+    "id": "T005",
+    "name": "Đặng Hữu Tùng / Võ Thị Hà",
+    "club": "CLB Quận 5"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BA-L3-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "A",
+   "round": 3,
+   "roundName": "Bảng A · Lượt 3",
+   "pos": 1,
+   "sideA": {
+    "id": "T004",
+    "name": "Phan Hữu Tài / Đỗ Thị Dung",
+    "club": "CLB Quận 3"
+   },
+   "sideB": {
+    "id": "T005",
+    "name": "Đặng Hữu Tùng / Võ Thị Hà",
+    "club": "CLB Quận 5"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BA-L3-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "A",
+   "round": 3,
+   "roundName": "Bảng A · Lượt 3",
+   "pos": 2,
+   "sideA": {
+    "id": "T016",
+    "name": "Võ Anh Dũng / Lê Thị Nga",
+    "club": "CLB Gò Vấp"
+   },
+   "sideB": {
+    "id": "T017",
+    "name": "Lý Hữu Long / Mai Thị Yến",
+    "club": "CLB Quận 12"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BB-L1-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "B",
+   "round": 1,
+   "roundName": "Bảng B · Lượt 1",
+   "pos": 1,
+   "sideA": {
+    "id": "T010",
+    "name": "Phan Minh Nam / Nguyễn Thị Lan",
+    "club": "CLB Quận 9"
+   },
+   "sideB": {
+    "id": "T002",
+    "name": "Nguyễn Thành Phúc / Bùi Thị Trang",
+    "club": "CLB Quận 1"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 1,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BB-L1-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "B",
+   "round": 1,
+   "roundName": "Bảng B · Lượt 1",
+   "pos": 2,
+   "sideA": {
+    "id": "T007",
+    "name": "Vũ Gia Phong / Vũ Thị Yến",
+    "club": "CLB Quận 7"
+   },
+   "sideB": {
+    "id": "T013",
+    "name": "Vũ Thanh Bình / Lý Thị Thu",
+    "club": "CLB Bình Thạnh"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 3,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BB-L2-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "B",
+   "round": 2,
+   "roundName": "Bảng B · Lượt 2",
+   "pos": 1,
+   "sideA": {
+    "id": "T010",
+    "name": "Phan Minh Nam / Nguyễn Thị Lan",
+    "club": "CLB Quận 9"
+   },
+   "sideB": {
+    "id": "T013",
+    "name": "Vũ Thanh Bình / Lý Thị Thu",
+    "club": "CLB Bình Thạnh"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 4,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BB-L2-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "B",
+   "round": 2,
+   "roundName": "Bảng B · Lượt 2",
+   "pos": 2,
+   "sideA": {
+    "id": "T002",
+    "name": "Nguyễn Thành Phúc / Bùi Thị Trang",
+    "club": "CLB Quận 1"
+   },
+   "sideB": {
+    "id": "T007",
+    "name": "Vũ Gia Phong / Vũ Thị Yến",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 2,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BB-L3-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "B",
+   "round": 3,
+   "roundName": "Bảng B · Lượt 3",
+   "pos": 1,
+   "sideA": {
+    "id": "T010",
+    "name": "Phan Minh Nam / Nguyễn Thị Lan",
+    "club": "CLB Quận 9"
+   },
+   "sideB": {
+    "id": "T007",
+    "name": "Vũ Gia Phong / Vũ Thị Yến",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 1,
+   "time": "15:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BB-L3-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "B",
+   "round": 3,
+   "roundName": "Bảng B · Lượt 3",
+   "pos": 2,
+   "sideA": {
+    "id": "T013",
+    "name": "Vũ Thanh Bình / Lý Thị Thu",
+    "club": "CLB Bình Thạnh"
+   },
+   "sideB": {
+    "id": "T002",
+    "name": "Nguyễn Thành Phúc / Bùi Thị Trang",
+    "club": "CLB Quận 1"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 3,
+   "time": "15:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BC-L1-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "C",
+   "round": 1,
+   "roundName": "Bảng C · Lượt 1",
+   "pos": 1,
+   "sideA": {
+    "id": "T014",
+    "name": "Đỗ Hữu Phúc / Huỳnh Thị Phương",
+    "club": "CLB Bình Thạnh"
+   },
+   "sideB": {
+    "id": "T011",
+    "name": "Lý Minh Phúc / Huỳnh Thị Hà",
+    "club": "CLB Quận 10"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BC-L1-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "C",
+   "round": 1,
+   "roundName": "Bảng C · Lượt 1",
+   "pos": 2,
+   "sideA": {
+    "id": "T006",
+    "name": "Trịnh Anh Việt / Ngô Thị Hà",
+    "club": "CLB Quận 5"
+   },
+   "sideB": {
+    "id": "T019",
+    "name": "Lý Hữu Việt / Phan Thị Hồng",
+    "club": "CLB Tân Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 3,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BC-L2-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "C",
+   "round": 2,
+   "roundName": "Bảng C · Lượt 2",
+   "pos": 1,
+   "sideA": {
+    "id": "T014",
+    "name": "Đỗ Hữu Phúc / Huỳnh Thị Phương",
+    "club": "CLB Bình Thạnh"
+   },
+   "sideB": {
+    "id": "T019",
+    "name": "Lý Hữu Việt / Phan Thị Hồng",
+    "club": "CLB Tân Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BC-L2-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "C",
+   "round": 2,
+   "roundName": "Bảng C · Lượt 2",
+   "pos": 2,
+   "sideA": {
+    "id": "T011",
+    "name": "Lý Minh Phúc / Huỳnh Thị Hà",
+    "club": "CLB Quận 10"
+   },
+   "sideB": {
+    "id": "T006",
+    "name": "Trịnh Anh Việt / Ngô Thị Hà",
+    "club": "CLB Quận 5"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "20:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BC-L3-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "C",
+   "round": 3,
+   "roundName": "Bảng C · Lượt 3",
+   "pos": 1,
+   "sideA": {
+    "id": "T014",
+    "name": "Đỗ Hữu Phúc / Huỳnh Thị Phương",
+    "club": "CLB Bình Thạnh"
+   },
+   "sideB": {
+    "id": "T006",
+    "name": "Trịnh Anh Việt / Ngô Thị Hà",
+    "club": "CLB Quận 5"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "21:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BC-L3-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "C",
+   "round": 3,
+   "roundName": "Bảng C · Lượt 3",
+   "pos": 2,
+   "sideA": {
+    "id": "T019",
+    "name": "Lý Hữu Việt / Phan Thị Hồng",
+    "club": "CLB Tân Bình"
+   },
+   "sideB": {
+    "id": "T011",
+    "name": "Lý Minh Phúc / Huỳnh Thị Hà",
+    "club": "CLB Quận 10"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "21:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BD-L1-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "D",
+   "round": 1,
+   "roundName": "Bảng D · Lượt 1",
+   "pos": 1,
+   "sideA": {
+    "id": "T001",
+    "name": "Huỳnh Thanh Dũng / Nguyễn Thị Vy",
+    "club": "CLB Quận 1"
+   },
+   "sideB": {
+    "id": "T003",
+    "name": "Huỳnh Thanh Khoa / Trịnh Thị Giang",
+    "club": "CLB Quận 3"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 2,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BD-L1-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "D",
+   "round": 1,
+   "roundName": "Bảng D · Lượt 1",
+   "pos": 2,
+   "sideA": {
+    "id": "T008",
+    "name": "Phạm Đức Bình / Bùi Thị Yến",
+    "club": "CLB Quận 7"
+   },
+   "sideB": {
+    "id": "T012",
+    "name": "Bùi Thành Khoa / Bùi Thị Chi",
+    "club": "CLB Quận 10"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BD-L2-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "D",
+   "round": 2,
+   "roundName": "Bảng D · Lượt 2",
+   "pos": 1,
+   "sideA": {
+    "id": "T001",
+    "name": "Huỳnh Thanh Dũng / Nguyễn Thị Vy",
+    "club": "CLB Quận 1"
+   },
+   "sideB": {
+    "id": "T012",
+    "name": "Bùi Thành Khoa / Bùi Thị Chi",
+    "club": "CLB Quận 10"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BD-L2-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "D",
+   "round": 2,
+   "roundName": "Bảng D · Lượt 2",
+   "pos": 2,
+   "sideA": {
+    "id": "T003",
+    "name": "Huỳnh Thanh Khoa / Trịnh Thị Giang",
+    "club": "CLB Quận 3"
+   },
+   "sideB": {
+    "id": "T008",
+    "name": "Phạm Đức Bình / Bùi Thị Yến",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 2,
+   "time": "20:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BD-L3-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "D",
+   "round": 3,
+   "roundName": "Bảng D · Lượt 3",
+   "pos": 1,
+   "sideA": {
+    "id": "T001",
+    "name": "Huỳnh Thanh Dũng / Nguyễn Thị Vy",
+    "club": "CLB Quận 1"
+   },
+   "sideB": {
+    "id": "T008",
+    "name": "Phạm Đức Bình / Bùi Thị Yến",
+    "club": "CLB Quận 7"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "21:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BD-L3-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "D",
+   "round": 3,
+   "roundName": "Bảng D · Lượt 3",
+   "pos": 2,
+   "sideA": {
+    "id": "T012",
+    "name": "Bùi Thành Khoa / Bùi Thị Chi",
+    "club": "CLB Quận 10"
+   },
+   "sideB": {
+    "id": "T003",
+    "name": "Huỳnh Thanh Khoa / Trịnh Thị Giang",
+    "club": "CLB Quận 3"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "21:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BE-L1-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "E",
+   "round": 1,
+   "roundName": "Bảng E · Lượt 1",
+   "pos": 1,
+   "sideA": {
+    "id": "T015",
+    "name": "Đỗ Văn Quân / Bùi Thị Quỳnh",
+    "club": "CLB Gò Vấp"
+   },
+   "sideB": {
+    "id": "T009",
+    "name": "Trần Thanh Long / Huỳnh Thị Nga",
+    "club": "CLB Quận 9"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 2,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BE-L1-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "E",
+   "round": 1,
+   "roundName": "Bảng E · Lượt 1",
+   "pos": 2,
+   "sideA": {
+    "id": "T018",
+    "name": "Võ Đức Việt / Mai Thị Giang",
+    "club": "CLB Quận 12"
+   },
+   "sideB": {
+    "id": "T020",
+    "name": "Bùi Gia Sơn / Đặng Thị Ngọc",
+    "club": "CLB Tân Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 4,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BE-L2-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "E",
+   "round": 2,
+   "roundName": "Bảng E · Lượt 2",
+   "pos": 1,
+   "sideA": {
+    "id": "T015",
+    "name": "Đỗ Văn Quân / Bùi Thị Quỳnh",
+    "club": "CLB Gò Vấp"
+   },
+   "sideB": {
+    "id": "T020",
+    "name": "Bùi Gia Sơn / Đặng Thị Ngọc",
+    "club": "CLB Tân Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 1,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BE-L2-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "E",
+   "round": 2,
+   "roundName": "Bảng E · Lượt 2",
+   "pos": 2,
+   "sideA": {
+    "id": "T009",
+    "name": "Trần Thanh Long / Huỳnh Thị Nga",
+    "club": "CLB Quận 9"
+   },
+   "sideB": {
+    "id": "T018",
+    "name": "Võ Đức Việt / Mai Thị Giang",
+    "club": "CLB Quận 12"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 3,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BE-L3-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "E",
+   "round": 3,
+   "roundName": "Bảng E · Lượt 3",
+   "pos": 1,
+   "sideA": {
+    "id": "T015",
+    "name": "Đỗ Văn Quân / Bùi Thị Quỳnh",
+    "club": "CLB Gò Vấp"
+   },
+   "sideB": {
+    "id": "T018",
+    "name": "Võ Đức Việt / Mai Thị Giang",
+    "club": "CLB Quận 12"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 2,
+   "time": "15:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-BE-L3-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "group",
+   "group": "E",
+   "round": 3,
+   "roundName": "Bảng E · Lượt 3",
+   "pos": 2,
+   "sideA": {
+    "id": "T020",
+    "name": "Bùi Gia Sơn / Đặng Thị Ngọc",
+    "club": "CLB Tân Bình"
+   },
+   "sideB": {
+    "id": "T009",
+    "name": "Trần Thanh Long / Huỳnh Thị Nga",
+    "club": "CLB Quận 9"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 1,
+   "court": 4,
+   "time": "15:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R1-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/8",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "group",
+    "group": "A",
+    "rank": 1
+   },
+   "srcB": {
+    "type": "group",
+    "group": "D",
+    "rank": 2
+   },
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 2,
+   "time": "11:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R1-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/8",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "group",
+    "group": "B",
+    "rank": 2
+   },
+   "srcB": {
+    "type": "group",
+    "group": "A",
+    "rank": 2
+   },
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 3,
+   "time": "11:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R1-3",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/8",
+   "pos": 3,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "group",
+    "group": "B",
+    "rank": 1
+   },
+   "srcB": {
+    "type": "group",
+    "group": "E",
+    "rank": 2
+   },
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "30/07/2026",
+   "session": 0,
+   "court": 4,
+   "time": "11:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R1-4",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/8",
+   "pos": 4,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "group",
+    "group": "D",
+    "rank": 1
+   },
+   "srcB": {
+    "type": "group",
+    "group": "C",
+    "rank": 2
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 4,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R1-5",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/8",
+   "pos": 5,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "group",
+    "group": "C",
+    "rank": 1
+   },
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 4,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R1-6",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/8",
+   "pos": 6,
+   "sideA": null,
+   "sideB": null,
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R1-7",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/8",
+   "pos": 7,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "group",
+    "group": "E",
+    "rank": 1
+   },
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "08:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R1-8",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/8",
+   "pos": 8,
+   "sideA": null,
+   "sideB": null,
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 1,
+   "time": "14:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R2-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Tứ kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "XD-R1-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "XD-R1-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 3,
+   "time": "09:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R2-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Tứ kết",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "XD-R1-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "XD-R1-4"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 4,
+   "time": "09:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R2-3",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Tứ kết",
+   "pos": 3,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "XD-R1-5"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "XD-R1-6"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R2-4",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Tứ kết",
+   "pos": 4,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "XD-R1-7"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "XD-R1-8"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 1,
+   "court": 1,
+   "time": "15:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R3-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Bán kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "XD-R2-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "XD-R2-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 0,
+   "court": 1,
+   "time": "10:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R3-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Bán kết",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "XD-R2-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "XD-R2-4"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 1,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-R4-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 4,
+   "roundName": "Chung kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "XD-R3-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "XD-R3-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 4,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-3RD",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "ko",
+   "group": null,
+   "round": 4,
+   "roundName": "Tranh hạng 3–4",
+   "pos": 0,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "loser",
+    "match": "XD-R3-1"
+   },
+   "srcB": {
+    "type": "loser",
+    "match": "XD-R3-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "31/07/2026",
+   "session": 2,
+   "court": 3,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  }
+ ]
+}
