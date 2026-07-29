@@ -1,0 +1,18 @@
+[
+ {
+  "id": "giai-20260729-181043",
+  "name": "CUP_ASEAN",
+  "status": "sap_dien_ra",
+  "startDate": "2026-07-30",
+  "location": "THPT Hùng Vương",
+  "updatedAt": "2026-07-29T18:17:13"
+ },
+ {
+  "id": "giai-20260730-020451",
+  "name": "CUP_ABC",
+  "status": "sap_dien_ra",
+  "startDate": "2026-07-31",
+  "location": "Nhà Thi Đấu Đại Học Quảng Nam",
+  "updatedAt": "2026-07-30T02:11:18"
+ }
+]
