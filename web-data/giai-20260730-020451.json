@@ -1,0 +1,2376 @@
+{
+ "id": "giai-20260730-020451",
+ "updatedAt": "2026-07-30T02:11:18",
+ "tournament": {
+  "name": "CUP_ABC",
+  "location": "Nhà Thi Đấu Đại Học Quảng Nam",
+  "organizer": "LỚP CẦU LÔNG ÂN",
+  "startDate": "2026-07-31",
+  "numDays": 8,
+  "status": "sap_dien_ra",
+  "sessions": [
+   {
+    "name": "Sáng",
+    "start": "07:30",
+    "end": "11:30",
+    "courts": 4
+   },
+   {
+    "name": "Chiều",
+    "start": "13:30",
+    "end": "17:30",
+    "courts": 4
+   },
+   {
+    "name": "Tối",
+    "start": "17:30",
+    "end": "23:30",
+    "courts": 4
+   }
+  ]
+ },
+ "players": [
+  {
+   "id": "P001",
+   "name": "AVô Thị Liên",
+   "gender": "F",
+   "club": "THPT Hà Huy Tập",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P002",
+   "name": "Bùi Lê Hoàng",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P003",
+   "name": "Bùi Nguyễn Quỳnh Anh",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P004",
+   "name": "Bùi Nguyễn Quỳnh Anh",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P005",
+   "name": "Cao Tiến Thiên",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P006",
+   "name": "Châu Hồ Hoàng Linh",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P007",
+   "name": "Châu Vũ Phong",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P008",
+   "name": "Châu Vũ Phong",
+   "gender": "M",
+   "club": "THPT Lê Quý Đôn",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P009",
+   "name": "Dương Bảo",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P010",
+   "name": "Dương Bảo",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P011",
+   "name": "Dương Tấn Khuê",
+   "gender": "M",
+   "club": "THPT Nguyễn Văn Cừ",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P012",
+   "name": "Đặng Ngọc Minh Thịnh",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P013",
+   "name": "Đặng Phước Đức",
+   "gender": "M",
+   "club": "THPT Quế Sơn",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P014",
+   "name": "Đặng Quỳnh Như",
+   "gender": "F",
+   "club": "THPT Lý Tự Trọng",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P015",
+   "name": "Đặng Quỳnh Như",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P016",
+   "name": "Đặng Văn Bảo",
+   "gender": "M",
+   "club": "THPT Trần Đại Nghĩa",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P017",
+   "name": "Đinh Hoàng Anh",
+   "gender": "M",
+   "club": "THPT Nguyễn Trãi",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P018",
+   "name": "Đinh Hoàng Yến Ngọc",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P019",
+   "name": "Đinh Hoàng",
+   "gender": "M",
+   "club": "THPT Hùng Vương",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P020",
+   "name": "Đinh Quốc Khánh",
+   "gender": "M",
+   "club": "THPT Nguyễn Thái Bình",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P021",
+   "name": "Đoàn Huỳnh Hân Hân",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P022",
+   "name": "Hà Nhật Tín",
+   "gender": "M",
+   "club": "THPT Duy Tân",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P023",
+   "name": "Hoàng Thị Hà My",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P024",
+   "name": "Hồ Lê Gia Kiên",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P025",
+   "name": "Hồ Nhật Trường",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P026",
+   "name": "Hồ Nhật Trường",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P027",
+   "name": "Hốih Thị Linh",
+   "gender": "F",
+   "club": "THPT Hà Huy Tập",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P028",
+   "name": "Hôil Thị Thu Thìn",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P029",
+   "name": "Huỳnh Dương Viết Khải",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P030",
+   "name": "Huỳnh Dương Viết Khải",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P031",
+   "name": "Huỳnh Kim Đạt",
+   "gender": "M",
+   "club": "THPT Hà Huy Tập",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P032",
+   "name": "Huỳnh Kim Đạt",
+   "gender": "M",
+   "club": "THPT Duy Tân",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P033",
+   "name": "Huỳnh Ngọc Bảo Khanh",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P034",
+   "name": "Huỳnh Ngọc Bảo Khanh",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P035",
+   "name": "Huỳnh Ngọc Bảo",
+   "gender": "M",
+   "club": "THPT Võ Nguyên Giáp",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P036",
+   "name": "Huỳnh Ngọc Quỳnh Trâm",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P037",
+   "name": "Huỳnh Như Ý",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P038",
+   "name": "Huỳnh Phạm Thảo Nguyên",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P039",
+   "name": "Huỳnh Tấn Hưng",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P040",
+   "name": "Ka Phu Xuân Phương",
+   "gender": "M",
+   "club": "THPT Nguyễn Văn Cừ",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P041",
+   "name": "Lã Trọng",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P042",
+   "name": "Lâm Trịnh",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P043",
+   "name": "Lê Hoàng Phương Linh",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P044",
+   "name": "Lê Hoàng Phương Linh",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P045",
+   "name": "Lê Hồng Ánh",
+   "gender": "F",
+   "club": "THPT Lê Quý Đôn",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P046",
+   "name": "Lê Hồng Ánh",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P047",
+   "name": "Lê Huỳnh Nguyên Trang",
+   "gender": "F",
+   "club": "THPT Hà Huy Tập",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P048",
+   "name": "Lê Huỳnh Nguyên Trang",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P049",
+   "name": "Lê Khanh",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P050",
+   "name": "Lê Ngô Quốc Bo",
+   "gender": "M",
+   "club": "THPT Hùng Vương",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P051",
+   "name": "Lê Quang Phát",
+   "gender": "M",
+   "club": "THPT Hà Huy Tập",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P052",
+   "name": "Lê Quang Phát",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P053",
+   "name": "Lê Quang Thành",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P054",
+   "name": "Lê Quang Thành",
+   "gender": "M",
+   "club": "THPT Tiểu La",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P055",
+   "name": "Lê Tấn Thuận",
+   "gender": "M",
+   "club": "THPT Huỳnh Thúc Kháng",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P056",
+   "name": "Lê Thị Bích Hằng",
+   "gender": "F",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P057",
+   "name": "Lê Thị Bích Hằng",
+   "gender": "F",
+   "club": "THPT Quảng Đông",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P058",
+   "name": "Lê Thị Như Ngọc",
+   "gender": "F",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P059",
+   "name": "Lê Thị Thanh Tiền",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "WS",
+    "WD"
+   ]
+  },
+  {
+   "id": "P060",
+   "name": "Lê Thị Thảo Vy",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P061",
+   "name": "Lê Trúc Uyên",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P062",
+   "name": "Lê Trúc Uyên",
+   "gender": "F",
+   "club": "THPT Duy Tân",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P063",
+   "name": "Lê Trung Anh Kiệt",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P064",
+   "name": "Lê Trung Anh Kiệt",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P065",
+   "name": "LƯƠNG THUÝ NGA",
+   "gender": "F",
+   "club": "THPT Duy Tân",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P066",
+   "name": "LƯƠNG THUÝ NGA",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P067",
+   "name": "Lưu Gia Thịnh",
+   "gender": "M",
+   "club": "THPT Duy Tân",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P068",
+   "name": "Lưu Thị Kim Yến",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "WS",
+    "WD"
+   ]
+  },
+  {
+   "id": "P069",
+   "name": "Mai Chí Dũng",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P070",
+   "name": "Mai Võ Nhật Huy",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P071",
+   "name": "Ngô Nguyễn Cát Tường",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P072",
+   "name": "NGÔ QUANG HUY",
+   "gender": "M",
+   "club": "THPT Tiểu La",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P073",
+   "name": "NGÔ QUANG HUY",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P074",
+   "name": "Ngô Thục Như",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P075",
+   "name": "Ngô Tiến Minh Nhật",
+   "gender": "M",
+   "club": "THPT Nguyễn Văn Cừ",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P076",
+   "name": "Ngô Tiến Minh Nhật",
+   "gender": "M",
+   "club": "THPT Phan Châu Trinh",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P077",
+   "name": "Ngô Trọng Nghĩa",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P078",
+   "name": "Ngô Văn A",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P079",
+   "name": "Ngô Văn B",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P080",
+   "name": "Ngô Văn C",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P081",
+   "name": "Ngô Văn D",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P082",
+   "name": "Ngô Văn E",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P083",
+   "name": "Ngô Xuân Thắng",
+   "gender": "M",
+   "club": "THPT Lương Thúc Kỳ",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P084",
+   "name": "Ngô Xuân Thắng",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P085",
+   "name": "Nguyễn Ánh Hằng",
+   "gender": "F",
+   "club": "THPT Hùng Vương",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P086",
+   "name": "Nguyễn Anh Kiệt",
+   "gender": "M",
+   "club": "THPT Chu Văn An",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P087",
+   "name": "Nguyễn Anh Tuấn",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P088",
+   "name": "Nguyễn Ánh",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P089",
+   "name": "Nguyễn Arất Bích Thủy",
+   "gender": "F",
+   "club": "THPT Trần Hưng Đạo",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P090",
+   "name": "Nguyễn Cao Đức",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P091",
+   "name": "Nguyễn Chánh Ninh",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P092",
+   "name": "Nguyễn Đức Tin",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P093",
+   "name": "Nguyễn Đức Tin",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P094",
+   "name": "Nguyễn Gia Bảo",
+   "gender": "M",
+   "club": "THPT Khâm Đức",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P095",
+   "name": "Nguyễn Hoài Ân",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P096",
+   "name": "Nguyễn Hoàng Long",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P097",
+   "name": "Nguyễn Hữu Đạt",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P098",
+   "name": "Nguyễn Hữu Hoàng Duy",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P099",
+   "name": "Nguyễn Khánh Linh",
+   "gender": "F",
+   "club": "THPT Duy Tân",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P100",
+   "name": "Nguyễn Khánh Linh",
+   "gender": "F",
+   "club": "THPT Trần Hưng Đạo",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P101",
+   "name": "Nguyễn Kiều Diễm Ny",
+   "gender": "F",
+   "club": "THPT Nguyễn Thái Bình",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P102",
+   "name": "Nguyễn Lê Hoàng",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P103",
+   "name": "Nguyễn Lê Khoa",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P104",
+   "name": "Nguyễn Lê Na",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P105",
+   "name": "Nguyễn Lê Na",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P106",
+   "name": "Nguyễn Ngọc Gia Huy",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P107",
+   "name": "Nguyễn Phứơc Diệu Hiền",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P108",
+   "name": "Nguyễn Phước Quang",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P109",
+   "name": "Nguyễn Quang Minh",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P110",
+   "name": "Nguyễn Tấn An",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P111",
+   "name": "Nguyễn Tấn Đạt",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P112",
+   "name": "Nguyễn Tấn Vương",
+   "gender": "M",
+   "club": "THPT Trần Quý Cáp",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P113",
+   "name": "Nguyễn Thanh Bình",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P114",
+   "name": "Nguyễn Thanh Bình",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P115",
+   "name": "Nguyễn Thanh Mai",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P116",
+   "name": "Nguyễn Thanh Mai",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P117",
+   "name": "Nguyễn Thành Phát",
+   "gender": "M",
+   "club": "THPT Hùng Vương",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P118",
+   "name": "Nguyễn Thành Phát",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P119",
+   "name": "Nguyễn Thảo My",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P120",
+   "name": "Nguyễn Thị Bảo Thy",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P121",
+   "name": "Nguyễn Thị Khánh Khuê",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P122",
+   "name": "Nguyễn Thị Minh Phương",
+   "gender": "F",
+   "club": "THPT Lê Quý Đôn",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P123",
+   "name": "Nguyễn Thị Minh Phương",
+   "gender": "F",
+   "club": "THPT Nguyễn Thái Bình",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P124",
+   "name": "Nguyễn Thị Tâm Đan",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P125",
+   "name": "Nguyễn Thị Tâm Đan",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P126",
+   "name": "Nguyễn Thị Thảo Uyên",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P127",
+   "name": "Nguyễn Thị Thùy Nhung",
+   "gender": "F",
+   "club": "THPT Tiểu La",
+   "events": [
+    "WS",
+    "XD"
+   ]
+  },
+  {
+   "id": "P128",
+   "name": "Nguyễn Trần Bảo Nguyên",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P129",
+   "name": "Nguyễn Trung Dũng",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P130",
+   "name": "Nguyễn Tuấn Đạt",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P131",
+   "name": "Nguyễn Tuấn Khoa",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P132",
+   "name": "Nguyễn Văn Khánh Hưng",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P133",
+   "name": "Nguyễn Văn Khánh Hưng",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P134",
+   "name": "Nguyễn Văn Toàn",
+   "gender": "M",
+   "club": "THPT Lê Quý Đôn",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P135",
+   "name": "Nguyễn Viết Thiện Nhân",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P136",
+   "name": "Phạm Minh Huy",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P137",
+   "name": "Phạm Nguyễn Bảo",
+   "gender": "M",
+   "club": "THPT Hùng Vương",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P138",
+   "name": "Phạm Nguyệt Thiện",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P139",
+   "name": "Phạm Thị Kiều Vy",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P140",
+   "name": "Phạm Thị Như Ngọc",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P141",
+   "name": "Phạm Xuân An",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P142",
+   "name": "Phạm Xuyên Giang",
+   "gender": "F",
+   "club": "THPT Nguyễn Trãi",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P143",
+   "name": "Phan Gia Hân",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P144",
+   "name": "Phan Gia Hân",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P145",
+   "name": "Phan Hồng Nguyên Kha",
+   "gender": "M",
+   "club": "THPT Tiểu La",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P146",
+   "name": "Phan Quang Đức Trí",
+   "gender": "M",
+   "club": "THPT Nguyễn Thái Bình",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P147",
+   "name": "Phan Thanh Bình",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P148",
+   "name": "Phan Văn Minh Hiếu",
+   "gender": "M",
+   "club": "PTDTNT Nước Oa",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P149",
+   "name": "Phan Văn Minh Hiếu",
+   "gender": "M",
+   "club": "THPT Nguyễn Văn Cừ",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P150",
+   "name": "Thái Lê Hồng Phương",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P151",
+   "name": "Thái Thị Thùy Linh",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P152",
+   "name": "Thân Thị Linh",
+   "gender": "F",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P153",
+   "name": "Thi Thị Bảo Ngân",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "WD",
+    "XD"
+   ]
+  },
+  {
+   "id": "P154",
+   "name": "Thiều Gia Khánh",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P155",
+   "name": "Trần Anh Quân",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P156",
+   "name": "Trần Duy Anh",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P157",
+   "name": "Trần Duy Anh",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P158",
+   "name": "Trần Hạnh Nguyên",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P159",
+   "name": "Trần Hoàng Thanh Phúc",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "WS",
+    "WD"
+   ]
+  },
+  {
+   "id": "P160",
+   "name": "Trần Hồng Long",
+   "gender": "M",
+   "club": "THPT Lý Tự Trọng",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P161",
+   "name": "Trần Huy Đô",
+   "gender": "M",
+   "club": "THPT Hà Huy Tập",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P162",
+   "name": "Trần Hữu Phước",
+   "gender": "M",
+   "club": "GDTX TỈNH",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P163",
+   "name": "Trần Lê Bảo Hạnh",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P164",
+   "name": "Trần Minh Hiếu",
+   "gender": "M",
+   "club": "THPT Lý Tự Trọng",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P165",
+   "name": "Trần Minh Kha",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "MS",
+    "MD"
+   ]
+  },
+  {
+   "id": "P166",
+   "name": "Trần Minh Quang",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P167",
+   "name": "Trần Minh",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P168",
+   "name": "Trần Ngọc Nghĩa",
+   "gender": "M",
+   "club": "THPT Nam Trà My",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P169",
+   "name": "Trần Nguyên Phong",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P170",
+   "name": "Trần Như Ý",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P171",
+   "name": "Trần Như Ý",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P172",
+   "name": "Trần Quang Vinh",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P173",
+   "name": "Trần Quốc Huy",
+   "gender": "M",
+   "club": "THPT Đỗ Đăng Tuyển",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P174",
+   "name": "Trần Thanh Thương",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P175",
+   "name": "Trần Thảo Nguyên",
+   "gender": "F",
+   "club": "THPT Duy Tân",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P176",
+   "name": "Trần Thế Duy Khánh",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P177",
+   "name": "Trần Thị Kiều Trinh",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P178",
+   "name": "Trần Thị Như Quỳnh",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P179",
+   "name": "Trần Thúy Hạnh",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P180",
+   "name": "Trần Văn Minh Tài",
+   "gender": "M",
+   "club": "THPT Lê Hồng Phong",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P181",
+   "name": "Trần Văn Minh Tài",
+   "gender": "M",
+   "club": "THPT Nguyễn Thái Bình",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P182",
+   "name": "Trần Văn Phúc",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P183",
+   "name": "Trần Văn Tiến",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P184",
+   "name": "Trương Công Tiến",
+   "gender": "M",
+   "club": "THPT Quế Sơn",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P185",
+   "name": "Trương Đình Ngọa Long",
+   "gender": "M",
+   "club": "PTDTNT Phước Sơn",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P186",
+   "name": "Trương Đình Ngọa Long",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P187",
+   "name": "Trương Tấn Đông",
+   "gender": "M",
+   "club": "THPT Quế Sơn",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P188",
+   "name": "Trương Thanh Hà",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P189",
+   "name": "Trương Thế Gia Phúc",
+   "gender": "M",
+   "club": "THPT Lý Tự Trọng",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P190",
+   "name": "Trương Thị Thanh Thảo",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P191",
+   "name": "Văn Thuý Nga",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P192",
+   "name": "Văn Thuý Nga",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P193",
+   "name": "Võ Đăng Nguyên",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P194",
+   "name": "Võ Đăng Toàn",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P195",
+   "name": "Võ Đức Văn Sơn",
+   "gender": "M",
+   "club": "THPT Trần Đại Nghĩa",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P196",
+   "name": "Võ Minh Hiển",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P197",
+   "name": "Võ Minh Thắng",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P198",
+   "name": "Võ Ngọc Vi Thư",
+   "gender": "F",
+   "club": "THPT Lê Quý Đôn",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P199",
+   "name": "Võ Ngọc Vy Thư",
+   "gender": "F",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "WS"
+   ]
+  },
+  {
+   "id": "P200",
+   "name": "Võ Nguyễn Ngọc Dung",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "WD"
+   ]
+  },
+  {
+   "id": "P201",
+   "name": "Võ Thị Khánh Thy",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P202",
+   "name": "Võ Thị Khánh Thy",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDNU"
+   ]
+  },
+  {
+   "id": "P203",
+   "name": "Võ Văn Anh Tú",
+   "gender": "M",
+   "club": "THPT Lê Quý Đôn",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P204",
+   "name": "Vương Hữu Anh Tuấn",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "MD"
+   ]
+  },
+  {
+   "id": "P205",
+   "name": "Vương Hữu Anh Tuấn",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "MS"
+   ]
+  }
+ ],
+ "teams": [
+  {
+   "id": "T001",
+   "name": "Trần Minh Kha / Trần Minh Quang",
+   "club": "THPT Cao Bá Quát",
+   "eventId": "MD",
+   "playerIds": [
+    "P165",
+    "P166"
+   ]
+  },
+  {
+   "id": "T002",
+   "name": "Nguyễn Tấn An / Võ Đăng Nguyên",
+   "club": "THPT Nguyễn Huệ",
+   "eventId": "MD",
+   "playerIds": [
+    "P110",
+    "P193"
+   ]
+  },
+  {
+   "id": "T003",
+   "name": "Nguyễn Thanh Bình / Võ Minh Thắng",
+   "club": "THPT Núi Thành",
+   "eventId": "MD",
+   "playerIds": [
+    "P114",
+    "P197"
+   ]
+  },
+  {
+   "id": "T004",
+   "name": "Cao Tiến Thiên / Hồ Nhật Trường",
+   "club": "THPT Trần Văn Dư",
+   "eventId": "MD",
+   "playerIds": [
+    "P005",
+    "P026"
+   ]
+  },
+  {
+   "id": "T005",
+   "name": "Nguyễn Lê Hoàng / Nguyễn Tấn Đạt",
+   "club": "THPT Nguyễn Dục",
+   "eventId": "MD",
+   "playerIds": [
+    "P102",
+    "P111"
+   ]
+  },
+  {
+   "id": "T006",
+   "name": "Lã Trọng / Trần Minh",
+   "club": "THPT C- NB Khiêm",
+   "eventId": "MD",
+   "playerIds": [
+    "P041",
+    "P167"
+   ]
+  },
+  {
+   "id": "T007",
+   "name": "Huỳnh Dương Viết Khải / Nguyễn Văn Khánh Hưng",
+   "club": "THPT Trần Cao Vân",
+   "eventId": "MD",
+   "playerIds": [
+    "P030",
+    "P133"
+   ]
+  },
+  {
+   "id": "T008",
+   "name": "Châu Vũ Phong / Võ Văn Anh Tú",
+   "club": "THPT Lê Quý Đôn",
+   "eventId": "MD",
+   "playerIds": [
+    "P008",
+    "P203"
+   ]
+  },
+  {
+   "id": "T009",
+   "name": "Nguyễn Ngọc Gia Huy / Vương Hữu Anh Tuấn",
+   "club": "THPT Phan Bội Châu",
+   "eventId": "MD",
+   "playerIds": [
+    "P106",
+    "P204"
+   ]
+  },
+  {
+   "id": "T010",
+   "name": "Hà Nhật Tín / Lưu Gia Thịnh",
+   "club": "THPT Duy Tân",
+   "eventId": "MD",
+   "playerIds": [
+    "P022",
+    "P067"
+   ]
+  },
+  {
+   "id": "T011",
+   "name": "Nguyễn Chánh Ninh / Phạm Minh Huy",
+   "club": "THPT Thái Phiên",
+   "eventId": "MD",
+   "playerIds": [
+    "P091",
+    "P136"
+   ]
+  },
+  {
+   "id": "T012",
+   "name": "Đinh Quốc Khánh / Phan Quang Đức Trí",
+   "club": "THPT Nguyễn Thái Bình",
+   "eventId": "MD",
+   "playerIds": [
+    "P020",
+    "P146"
+   ]
+  },
+  {
+   "id": "T013",
+   "name": "Trần Hồng Long / Trương Thế Gia Phúc",
+   "club": "THPT Lý Tự Trọng",
+   "eventId": "MD",
+   "playerIds": [
+    "P160",
+    "P189"
+   ]
+  },
+  {
+   "id": "T014",
+   "name": "Đinh Hoàng / Phạm Nguyễn Bảo",
+   "club": "THPT Hùng Vương",
+   "eventId": "MD",
+   "playerIds": [
+    "P019",
+    "P137"
+   ]
+  },
+  {
+   "id": "T015",
+   "name": "Đặng Phước Đức / Trương Tấn Đông",
+   "club": "THPT Quế Sơn",
+   "eventId": "MD",
+   "playerIds": [
+    "P013",
+    "P187"
+   ]
+  },
+  {
+   "id": "T016",
+   "name": "Ka Phu Xuân Phương / Ngô Tiến Minh Nhật",
+   "club": "THPT Nguyễn Văn Cừ",
+   "eventId": "MD",
+   "playerIds": [
+    "P040",
+    "P075"
+   ]
+  },
+  {
+   "id": "T017",
+   "name": "Dương Tấn Khuê / Phan Văn Minh Hiếu",
+   "club": "THPT Nguyễn Văn Cừ",
+   "eventId": "MD",
+   "playerIds": [
+    "P011",
+    "P149"
+   ]
+  },
+  {
+   "id": "T018",
+   "name": "Đặng Văn Bảo / Võ Đức Văn Sơn",
+   "club": "THPT Trần Đại Nghĩa",
+   "eventId": "MD",
+   "playerIds": [
+    "P016",
+    "P195"
+   ]
+  },
+  {
+   "id": "T019",
+   "name": "Nguyễn Lê Na / Trần Hoàng Thanh Phúc",
+   "club": "THPT Nguyễn Huệ",
+   "eventId": "WD",
+   "playerIds": [
+    "P104",
+    "P159"
+   ]
+  },
+  {
+   "id": "T020",
+   "name": "Bùi Nguyễn Quỳnh Anh / Đặng Quỳnh Như",
+   "club": "THPT Núi Thành",
+   "eventId": "WD",
+   "playerIds": [
+    "P003",
+    "P015"
+   ]
+  },
+  {
+   "id": "T021",
+   "name": "Dương Bảo / Nguyễn Ánh",
+   "club": "THPT Trần Văn Dư",
+   "eventId": "WD",
+   "playerIds": [
+    "P010",
+    "P088"
+   ]
+  },
+  {
+   "id": "T022",
+   "name": "Nguyễn Thị Tâm Đan / Phạm Xuân An",
+   "club": "THPT Nguyễn Dục",
+   "eventId": "WD",
+   "playerIds": [
+    "P125",
+    "P141"
+   ]
+  },
+  {
+   "id": "T023",
+   "name": "Lê Trúc Uyên / Lưu Thị Kim Yến",
+   "club": "THPT C- NB Khiêm",
+   "eventId": "WD",
+   "playerIds": [
+    "P061",
+    "P068"
+   ]
+  },
+  {
+   "id": "T024",
+   "name": "Trần Thúy Hạnh / Võ Nguyễn Ngọc Dung",
+   "club": "THPT Trần Cao Vân",
+   "eventId": "WD",
+   "playerIds": [
+    "P179",
+    "P200"
+   ]
+  },
+  {
+   "id": "T025",
+   "name": "Lê Hồng Ánh / Nguyễn Thị Minh Phương",
+   "club": "THPT Lê Quý Đôn",
+   "eventId": "WD",
+   "playerIds": [
+    "P045",
+    "P122"
+   ]
+  },
+  {
+   "id": "T026",
+   "name": "Lê Thị Bích Hằng / Thân Thị Linh",
+   "club": "THPT Phan Bội Châu",
+   "eventId": "WD",
+   "playerIds": [
+    "P056",
+    "P152"
+   ]
+  },
+  {
+   "id": "T027",
+   "name": "Nguyễn Khánh Linh / Trần Thảo Nguyên",
+   "club": "THPT Duy Tân",
+   "eventId": "WD",
+   "playerIds": [
+    "P099",
+    "P175"
+   ]
+  },
+  {
+   "id": "T028",
+   "name": "AVô Thị Liên / Hốih Thị Linh",
+   "club": "THPT Hà Huy Tập",
+   "eventId": "WD",
+   "playerIds": [
+    "P001",
+    "P027"
+   ]
+  },
+  {
+   "id": "T029",
+   "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+   "club": "THPT Núi Thành",
+   "eventId": "XD",
+   "playerIds": [
+    "P090",
+    "P105"
+   ]
+  },
+  {
+   "id": "T030",
+   "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+   "club": "THPT Trần Văn Dư",
+   "eventId": "XD",
+   "playerIds": [
+    "P004",
+    "P118"
+   ]
+  },
+  {
+   "id": "T031",
+   "name": "Dương Bảo / Lâm Trịnh",
+   "club": "THPT Nguyễn Dục",
+   "eventId": "XD",
+   "playerIds": [
+    "P009",
+    "P042"
+   ]
+  },
+  {
+   "id": "T032",
+   "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+   "club": "THPT C- NB Khiêm",
+   "eventId": "XD",
+   "playerIds": [
+    "P124",
+    "P132"
+   ]
+  },
+  {
+   "id": "T033",
+   "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+   "club": "THPT Trần Cao Vân",
+   "eventId": "XD",
+   "playerIds": [
+    "P066",
+    "P073"
+   ]
+  },
+  {
+   "id": "T034",
+   "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+   "club": "THPT Lê Quý Đôn",
+   "eventId": "XD",
+   "playerIds": [
+    "P134",
+    "P198"
+   ]
+  },
+  {
+   "id": "T035",
+   "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+   "club": "THPT Duy Tân",
+   "eventId": "XD",
+   "playerIds": [
+    "P032",
+    "P062"
+   ]
+  },
+  {
+   "id": "T036",
+   "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+   "club": "THPT Hà Huy Tập",
+   "eventId": "XD",
+   "playerIds": [
+    "P047",
+    "P161"
+   ]
+  },
+  {
+   "id": "T037",
+   "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+   "club": "THPT Tiểu La",
+   "eventId": "XD",
+   "playerIds": [
+    "P127",
+    "P145"
+   ]
+  },
+  {
+   "id": "T038",
+   "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+   "club": "THPT Nguyễn Thái Bình",
+   "eventId": "XD",
+   "playerIds": [
+    "P123",
+    "P181"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "code": "MS",
+   "name": "Đơn nam",
+   "type": "don",
+   "format": "knockout",
+   "locked": false,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": null,
+   "standings": {},
+   "ranking": []
+  },
+  {
+   "code": "WS",
+   "name": "Đơn nữ",
+   "type": "don",
+   "format": "knockout",
+   "locked": false,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": null,
+   "standings": {},
+   "ranking": []
+  },
+  {
+   "code": "MD",
+   "name": "Đôi nam",
+   "type": "doi",
+   "format": "group_ko",
+   "locked": false,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": null,
+   "standings": {},
+   "ranking": []
+  },
+  {
+   "code": "WD",
+   "name": "Đôi nữ",
+   "type": "doi",
+   "format": "group_ko",
+   "locked": false,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": null,
+   "standings": {},
+   "ranking": []
+  },
+  {
+   "code": "XD",
+   "name": "Đôi nam nữ",
+   "type": "doi",
+   "format": "group_ko",
+   "locked": false,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": null,
+   "standings": {},
+   "ranking": []
+  },
+  {
+   "code": "TDN",
+   "name": "Đồng đội nam",
+   "type": "dongdoi",
+   "format": "knockout",
+   "locked": false,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": [
+    "MS",
+    "MD",
+    "MS"
+   ],
+   "standings": {},
+   "ranking": []
+  },
+  {
+   "code": "TDNU",
+   "name": "Đồng đội nữ",
+   "type": "dongdoi",
+   "format": "knockout",
+   "locked": false,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": [
+    "WS",
+    "WD",
+    "WS"
+   ],
+   "standings": {},
+   "ranking": []
+  }
+ ],
+ "matches": []
+}
