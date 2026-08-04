@@ -1,0 +1,4998 @@
+{
+ "id": "giai-20260804-231029",
+ "updatedAt": "2026-08-04T23:47:50",
+ "tournament": {
+  "name": "giải cầu lông thành phố đà nẵng mở rộng năm 2026",
+  "location": "nhà thi đấu đà nẵng",
+  "organizer": "sở văn hoá thể thao và du lịch đà nẵng",
+  "startDate": "2026-08-05",
+  "numDays": 4,
+  "status": "sap_dien_ra",
+  "sessions": [
+   {
+    "name": "Sáng",
+    "start": "07:30",
+    "end": "11:30",
+    "courts": 4
+   },
+   {
+    "name": "chiều",
+    "start": "13:30",
+    "end": "17:30",
+    "courts": 4
+   },
+   {
+    "name": "tối",
+    "start": "18:30",
+    "end": "23:30",
+    "courts": 4
+   }
+  ]
+ },
+ "players": [
+  {
+   "id": "P001",
+   "name": "AVô Thị Liên",
+   "gender": "F",
+   "club": "THPT Hà Huy Tập",
+   "events": []
+  },
+  {
+   "id": "P002",
+   "name": "Bùi Lê Hoàng",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": []
+  },
+  {
+   "id": "P003",
+   "name": "Bùi Nguyễn Quỳnh Anh",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": []
+  },
+  {
+   "id": "P004",
+   "name": "Bùi Nguyễn Quỳnh Anh",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P005",
+   "name": "Cao Tiến Thiên",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": []
+  },
+  {
+   "id": "P006",
+   "name": "Châu Hồ Hoàng Linh",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": []
+  },
+  {
+   "id": "P007",
+   "name": "Châu Vũ Phong",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P008",
+   "name": "Châu Vũ Phong",
+   "gender": "M",
+   "club": "THPT Lê Quý Đôn",
+   "events": []
+  },
+  {
+   "id": "P009",
+   "name": "Dương Bảo",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P010",
+   "name": "Dương Bảo",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": []
+  },
+  {
+   "id": "P011",
+   "name": "Dương Tấn Khuê",
+   "gender": "M",
+   "club": "THPT Nguyễn Văn Cừ",
+   "events": []
+  },
+  {
+   "id": "P012",
+   "name": "Đặng Ngọc Minh Thịnh",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P013",
+   "name": "Đặng Phước Đức",
+   "gender": "M",
+   "club": "THPT Quế Sơn",
+   "events": []
+  },
+  {
+   "id": "P014",
+   "name": "Đặng Quỳnh Như",
+   "gender": "F",
+   "club": "THPT Lý Tự Trọng",
+   "events": []
+  },
+  {
+   "id": "P015",
+   "name": "Đặng Quỳnh Như",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": []
+  },
+  {
+   "id": "P016",
+   "name": "Đặng Văn Bảo",
+   "gender": "M",
+   "club": "THPT Trần Đại Nghĩa",
+   "events": []
+  },
+  {
+   "id": "P017",
+   "name": "Đinh Hoàng Anh",
+   "gender": "M",
+   "club": "THPT Nguyễn Trãi",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P018",
+   "name": "Đinh Hoàng Yến Ngọc",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": []
+  },
+  {
+   "id": "P019",
+   "name": "Đinh Hoàng",
+   "gender": "M",
+   "club": "THPT Hùng Vương",
+   "events": []
+  },
+  {
+   "id": "P020",
+   "name": "Đinh Quốc Khánh",
+   "gender": "M",
+   "club": "THPT Nguyễn Thái Bình",
+   "events": []
+  },
+  {
+   "id": "P021",
+   "name": "Đoàn Huỳnh Hân Hân",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": []
+  },
+  {
+   "id": "P022",
+   "name": "Hà Nhật Tín",
+   "gender": "M",
+   "club": "THPT Duy Tân",
+   "events": []
+  },
+  {
+   "id": "P023",
+   "name": "Hoàng Thị Hà My",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P024",
+   "name": "Hồ Lê Gia Kiên",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": []
+  },
+  {
+   "id": "P025",
+   "name": "Hồ Nhật Trường",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P026",
+   "name": "Hồ Nhật Trường",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": []
+  },
+  {
+   "id": "P027",
+   "name": "Hốih Thị Linh",
+   "gender": "F",
+   "club": "THPT Hà Huy Tập",
+   "events": []
+  },
+  {
+   "id": "P028",
+   "name": "Hôil Thị Thu Thìn",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": []
+  },
+  {
+   "id": "P029",
+   "name": "Huỳnh Dương Viết Khải",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P030",
+   "name": "Huỳnh Dương Viết Khải",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": []
+  },
+  {
+   "id": "P031",
+   "name": "Huỳnh Kim Đạt",
+   "gender": "M",
+   "club": "THPT Hà Huy Tập",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P032",
+   "name": "Huỳnh Kim Đạt",
+   "gender": "M",
+   "club": "THPT Duy Tân",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P033",
+   "name": "Huỳnh Ngọc Bảo Khanh",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": []
+  },
+  {
+   "id": "P034",
+   "name": "Huỳnh Ngọc Bảo Khanh",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P035",
+   "name": "Huỳnh Ngọc Bảo",
+   "gender": "M",
+   "club": "THPT Võ Nguyên Giáp",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P036",
+   "name": "Huỳnh Ngọc Quỳnh Trâm",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P037",
+   "name": "Huỳnh Như Ý",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P038",
+   "name": "Huỳnh Phạm Thảo Nguyên",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": []
+  },
+  {
+   "id": "P039",
+   "name": "Huỳnh Tấn Hưng",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P040",
+   "name": "Ka Phu Xuân Phương",
+   "gender": "M",
+   "club": "THPT Nguyễn Văn Cừ",
+   "events": []
+  },
+  {
+   "id": "P041",
+   "name": "Lã Trọng",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": []
+  },
+  {
+   "id": "P042",
+   "name": "Lâm Trịnh",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P043",
+   "name": "Lê Hoàng Phương Linh",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P044",
+   "name": "Lê Hoàng Phương Linh",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": []
+  },
+  {
+   "id": "P045",
+   "name": "Lê Hồng Ánh",
+   "gender": "F",
+   "club": "THPT Lê Quý Đôn",
+   "events": []
+  },
+  {
+   "id": "P046",
+   "name": "Lê Hồng Ánh",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": []
+  },
+  {
+   "id": "P047",
+   "name": "Lê Huỳnh Nguyên Trang",
+   "gender": "F",
+   "club": "THPT Hà Huy Tập",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P048",
+   "name": "Lê Huỳnh Nguyên Trang",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": []
+  },
+  {
+   "id": "P049",
+   "name": "Lê Khanh",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": []
+  },
+  {
+   "id": "P050",
+   "name": "Lê Ngô Quốc Bo",
+   "gender": "M",
+   "club": "THPT Hùng Vương",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P051",
+   "name": "Lê Quang Phát",
+   "gender": "M",
+   "club": "THPT Hà Huy Tập",
+   "events": []
+  },
+  {
+   "id": "P052",
+   "name": "Lê Quang Phát",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P053",
+   "name": "Lê Quang Thành",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P054",
+   "name": "Lê Quang Thành",
+   "gender": "M",
+   "club": "THPT Tiểu La",
+   "events": []
+  },
+  {
+   "id": "P055",
+   "name": "Lê Tấn Thuận",
+   "gender": "M",
+   "club": "THPT Huỳnh Thúc Kháng",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P056",
+   "name": "Lê Thị Bích Hằng",
+   "gender": "F",
+   "club": "THPT Phan Bội Châu",
+   "events": []
+  },
+  {
+   "id": "P057",
+   "name": "Lê Thị Bích Hằng",
+   "gender": "F",
+   "club": "THPT Quảng Đông",
+   "events": []
+  },
+  {
+   "id": "P058",
+   "name": "Lê Thị Như Ngọc",
+   "gender": "F",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P059",
+   "name": "Lê Thị Thanh Tiền",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": []
+  },
+  {
+   "id": "P060",
+   "name": "Lê Thị Thảo Vy",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": []
+  },
+  {
+   "id": "P061",
+   "name": "Lê Trúc Uyên",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": []
+  },
+  {
+   "id": "P062",
+   "name": "Lê Trúc Uyên",
+   "gender": "F",
+   "club": "THPT Duy Tân",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P063",
+   "name": "Lê Trung Anh Kiệt",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": []
+  },
+  {
+   "id": "P064",
+   "name": "Lê Trung Anh Kiệt",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P065",
+   "name": "LƯƠNG THUÝ NGA",
+   "gender": "F",
+   "club": "THPT Duy Tân",
+   "events": []
+  },
+  {
+   "id": "P066",
+   "name": "LƯƠNG THUÝ NGA",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P067",
+   "name": "Lưu Gia Thịnh",
+   "gender": "M",
+   "club": "THPT Duy Tân",
+   "events": []
+  },
+  {
+   "id": "P068",
+   "name": "Lưu Thị Kim Yến",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": []
+  },
+  {
+   "id": "P069",
+   "name": "Mai Chí Dũng",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P070",
+   "name": "Mai Võ Nhật Huy",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P071",
+   "name": "Ngô Nguyễn Cát Tường",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P072",
+   "name": "NGÔ QUANG HUY",
+   "gender": "M",
+   "club": "THPT Tiểu La",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P073",
+   "name": "NGÔ QUANG HUY",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P074",
+   "name": "Ngô Thục Như",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P075",
+   "name": "Ngô Tiến Minh Nhật",
+   "gender": "M",
+   "club": "THPT Nguyễn Văn Cừ",
+   "events": []
+  },
+  {
+   "id": "P076",
+   "name": "Ngô Tiến Minh Nhật",
+   "gender": "M",
+   "club": "THPT Phan Châu Trinh",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P077",
+   "name": "Ngô Trọng Nghĩa",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P078",
+   "name": "Ngô Văn A",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P079",
+   "name": "Ngô Văn B",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P080",
+   "name": "Ngô Văn C",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P081",
+   "name": "Ngô Văn D",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P082",
+   "name": "Ngô Văn E",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P083",
+   "name": "Ngô Xuân Thắng",
+   "gender": "M",
+   "club": "THPT Lương Thúc Kỳ",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P084",
+   "name": "Ngô Xuân Thắng",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P085",
+   "name": "Nguyễn Ánh Hằng",
+   "gender": "F",
+   "club": "THPT Hùng Vương",
+   "events": []
+  },
+  {
+   "id": "P086",
+   "name": "Nguyễn Anh Kiệt",
+   "gender": "M",
+   "club": "THPT Chu Văn An",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P087",
+   "name": "Nguyễn Anh Tuấn",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P088",
+   "name": "Nguyễn Ánh",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": []
+  },
+  {
+   "id": "P089",
+   "name": "Nguyễn Arất Bích Thủy",
+   "gender": "F",
+   "club": "THPT Trần Hưng Đạo",
+   "events": []
+  },
+  {
+   "id": "P090",
+   "name": "Nguyễn Cao Đức",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P091",
+   "name": "Nguyễn Chánh Ninh",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": []
+  },
+  {
+   "id": "P092",
+   "name": "Nguyễn Đức Tin",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P093",
+   "name": "Nguyễn Đức Tin",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": []
+  },
+  {
+   "id": "P094",
+   "name": "Nguyễn Gia Bảo",
+   "gender": "M",
+   "club": "THPT Khâm Đức",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P095",
+   "name": "Nguyễn Hoài Ân",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P096",
+   "name": "Nguyễn Hoàng Long",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": []
+  },
+  {
+   "id": "P097",
+   "name": "Nguyễn Hữu Đạt",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P098",
+   "name": "Nguyễn Hữu Hoàng Duy",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P099",
+   "name": "Nguyễn Khánh Linh",
+   "gender": "F",
+   "club": "THPT Duy Tân",
+   "events": []
+  },
+  {
+   "id": "P100",
+   "name": "Nguyễn Khánh Linh",
+   "gender": "F",
+   "club": "THPT Trần Hưng Đạo",
+   "events": []
+  },
+  {
+   "id": "P101",
+   "name": "Nguyễn Kiều Diễm Ny",
+   "gender": "F",
+   "club": "THPT Nguyễn Thái Bình",
+   "events": []
+  },
+  {
+   "id": "P102",
+   "name": "Nguyễn Lê Hoàng",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": []
+  },
+  {
+   "id": "P103",
+   "name": "Nguyễn Lê Khoa",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P104",
+   "name": "Nguyễn Lê Na",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": []
+  },
+  {
+   "id": "P105",
+   "name": "Nguyễn Lê Na",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P106",
+   "name": "Nguyễn Ngọc Gia Huy",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": []
+  },
+  {
+   "id": "P107",
+   "name": "Nguyễn Phứơc Diệu Hiền",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P108",
+   "name": "Nguyễn Phước Quang",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P109",
+   "name": "Nguyễn Quang Minh",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": []
+  },
+  {
+   "id": "P110",
+   "name": "Nguyễn Tấn An",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": []
+  },
+  {
+   "id": "P111",
+   "name": "Nguyễn Tấn Đạt",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": []
+  },
+  {
+   "id": "P112",
+   "name": "Nguyễn Tấn Vương",
+   "gender": "M",
+   "club": "THPT Trần Quý Cáp",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P113",
+   "name": "Nguyễn Thanh Bình",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P114",
+   "name": "Nguyễn Thanh Bình",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": []
+  },
+  {
+   "id": "P115",
+   "name": "Nguyễn Thanh Mai",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": []
+  },
+  {
+   "id": "P116",
+   "name": "Nguyễn Thanh Mai",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": []
+  },
+  {
+   "id": "P117",
+   "name": "Nguyễn Thành Phát",
+   "gender": "M",
+   "club": "THPT Hùng Vương",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P118",
+   "name": "Nguyễn Thành Phát",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P119",
+   "name": "Nguyễn Thảo My",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": []
+  },
+  {
+   "id": "P120",
+   "name": "Nguyễn Thị Bảo Thy",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P121",
+   "name": "Nguyễn Thị Khánh Khuê",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P122",
+   "name": "Nguyễn Thị Minh Phương",
+   "gender": "F",
+   "club": "THPT Lê Quý Đôn",
+   "events": []
+  },
+  {
+   "id": "P123",
+   "name": "Nguyễn Thị Minh Phương",
+   "gender": "F",
+   "club": "THPT Nguyễn Thái Bình",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P124",
+   "name": "Nguyễn Thị Tâm Đan",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P125",
+   "name": "Nguyễn Thị Tâm Đan",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": []
+  },
+  {
+   "id": "P126",
+   "name": "Nguyễn Thị Thảo Uyên",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P127",
+   "name": "Nguyễn Thị Thùy Nhung",
+   "gender": "F",
+   "club": "THPT Tiểu La",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P128",
+   "name": "Nguyễn Trần Bảo Nguyên",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": []
+  },
+  {
+   "id": "P129",
+   "name": "Nguyễn Trung Dũng",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P130",
+   "name": "Nguyễn Tuấn Đạt",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": []
+  },
+  {
+   "id": "P131",
+   "name": "Nguyễn Tuấn Khoa",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P132",
+   "name": "Nguyễn Văn Khánh Hưng",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P133",
+   "name": "Nguyễn Văn Khánh Hưng",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": []
+  },
+  {
+   "id": "P134",
+   "name": "Nguyễn Văn Toàn",
+   "gender": "M",
+   "club": "THPT Lê Quý Đôn",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P135",
+   "name": "Nguyễn Viết Thiện Nhân",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P136",
+   "name": "Phạm Minh Huy",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": []
+  },
+  {
+   "id": "P137",
+   "name": "Phạm Nguyễn Bảo",
+   "gender": "M",
+   "club": "THPT Hùng Vương",
+   "events": []
+  },
+  {
+   "id": "P138",
+   "name": "Phạm Nguyệt Thiện",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": []
+  },
+  {
+   "id": "P139",
+   "name": "Phạm Thị Kiều Vy",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": []
+  },
+  {
+   "id": "P140",
+   "name": "Phạm Thị Như Ngọc",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": []
+  },
+  {
+   "id": "P141",
+   "name": "Phạm Xuân An",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": []
+  },
+  {
+   "id": "P142",
+   "name": "Phạm Xuyên Giang",
+   "gender": "F",
+   "club": "THPT Nguyễn Trãi",
+   "events": []
+  },
+  {
+   "id": "P143",
+   "name": "Phan Gia Hân",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": []
+  },
+  {
+   "id": "P144",
+   "name": "Phan Gia Hân",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": []
+  },
+  {
+   "id": "P145",
+   "name": "Phan Hồng Nguyên Kha",
+   "gender": "M",
+   "club": "THPT Tiểu La",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P146",
+   "name": "Phan Quang Đức Trí",
+   "gender": "M",
+   "club": "THPT Nguyễn Thái Bình",
+   "events": []
+  },
+  {
+   "id": "P147",
+   "name": "Phan Thanh Bình",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P148",
+   "name": "Phan Văn Minh Hiếu",
+   "gender": "M",
+   "club": "PTDTNT Nước Oa",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P149",
+   "name": "Phan Văn Minh Hiếu",
+   "gender": "M",
+   "club": "THPT Nguyễn Văn Cừ",
+   "events": []
+  },
+  {
+   "id": "P150",
+   "name": "Thái Lê Hồng Phương",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P151",
+   "name": "Thái Thị Thùy Linh",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": []
+  },
+  {
+   "id": "P152",
+   "name": "Thân Thị Linh",
+   "gender": "F",
+   "club": "THPT Phan Bội Châu",
+   "events": []
+  },
+  {
+   "id": "P153",
+   "name": "Thi Thị Bảo Ngân",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P154",
+   "name": "Thiều Gia Khánh",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P155",
+   "name": "Trần Anh Quân",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P156",
+   "name": "Trần Duy Anh",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P157",
+   "name": "Trần Duy Anh",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": []
+  },
+  {
+   "id": "P158",
+   "name": "Trần Hạnh Nguyên",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P159",
+   "name": "Trần Hoàng Thanh Phúc",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": []
+  },
+  {
+   "id": "P160",
+   "name": "Trần Hồng Long",
+   "gender": "M",
+   "club": "THPT Lý Tự Trọng",
+   "events": []
+  },
+  {
+   "id": "P161",
+   "name": "Trần Huy Đô",
+   "gender": "M",
+   "club": "THPT Hà Huy Tập",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P162",
+   "name": "Trần Hữu Phước",
+   "gender": "M",
+   "club": "GDTX TỈNH",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P163",
+   "name": "Trần Lê Bảo Hạnh",
+   "gender": "F",
+   "club": "THPT Cao Bá Quát",
+   "events": []
+  },
+  {
+   "id": "P164",
+   "name": "Trần Minh Hiếu",
+   "gender": "M",
+   "club": "THPT Lý Tự Trọng",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P165",
+   "name": "Trần Minh Kha",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P166",
+   "name": "Trần Minh Quang",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": []
+  },
+  {
+   "id": "P167",
+   "name": "Trần Minh",
+   "gender": "M",
+   "club": "THPT C- NB Khiêm",
+   "events": []
+  },
+  {
+   "id": "P168",
+   "name": "Trần Ngọc Nghĩa",
+   "gender": "M",
+   "club": "THPT Nam Trà My",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P169",
+   "name": "Trần Nguyên Phong",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P170",
+   "name": "Trần Như Ý",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P171",
+   "name": "Trần Như Ý",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": []
+  },
+  {
+   "id": "P172",
+   "name": "Trần Quang Vinh",
+   "gender": "F",
+   "club": "THPT Núi Thành",
+   "events": []
+  },
+  {
+   "id": "P173",
+   "name": "Trần Quốc Huy",
+   "gender": "M",
+   "club": "THPT Đỗ Đăng Tuyển",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P174",
+   "name": "Trần Thanh Thương",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": []
+  },
+  {
+   "id": "P175",
+   "name": "Trần Thảo Nguyên",
+   "gender": "F",
+   "club": "THPT Duy Tân",
+   "events": []
+  },
+  {
+   "id": "P176",
+   "name": "Trần Thế Duy Khánh",
+   "gender": "F",
+   "club": "THPT Nguyễn Huệ",
+   "events": []
+  },
+  {
+   "id": "P177",
+   "name": "Trần Thị Kiều Trinh",
+   "gender": "F",
+   "club": "THPT C- NB Khiêm",
+   "events": []
+  },
+  {
+   "id": "P178",
+   "name": "Trần Thị Như Quỳnh",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": []
+  },
+  {
+   "id": "P179",
+   "name": "Trần Thúy Hạnh",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": []
+  },
+  {
+   "id": "P180",
+   "name": "Trần Văn Minh Tài",
+   "gender": "M",
+   "club": "THPT Lê Hồng Phong",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P181",
+   "name": "Trần Văn Minh Tài",
+   "gender": "M",
+   "club": "THPT Nguyễn Thái Bình",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P182",
+   "name": "Trần Văn Phúc",
+   "gender": "M",
+   "club": "THPT Nguyễn Dục",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P183",
+   "name": "Trần Văn Tiến",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P184",
+   "name": "Trương Công Tiến",
+   "gender": "M",
+   "club": "THPT Quế Sơn",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P185",
+   "name": "Trương Đình Ngọa Long",
+   "gender": "M",
+   "club": "PTDTNT Phước Sơn",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P186",
+   "name": "Trương Đình Ngọa Long",
+   "gender": "M",
+   "club": "THPT Cao Bá Quát",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P187",
+   "name": "Trương Tấn Đông",
+   "gender": "M",
+   "club": "THPT Quế Sơn",
+   "events": []
+  },
+  {
+   "id": "P188",
+   "name": "Trương Thanh Hà",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P189",
+   "name": "Trương Thế Gia Phúc",
+   "gender": "M",
+   "club": "THPT Lý Tự Trọng",
+   "events": []
+  },
+  {
+   "id": "P190",
+   "name": "Trương Thị Thanh Thảo",
+   "gender": "F",
+   "club": "THPT Nguyễn Dục",
+   "events": []
+  },
+  {
+   "id": "P191",
+   "name": "Văn Thuý Nga",
+   "gender": "M",
+   "club": "THPT Trần Cao Vân",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P192",
+   "name": "Văn Thuý Nga",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": []
+  },
+  {
+   "id": "P193",
+   "name": "Võ Đăng Nguyên",
+   "gender": "M",
+   "club": "THPT Nguyễn Huệ",
+   "events": []
+  },
+  {
+   "id": "P194",
+   "name": "Võ Đăng Toàn",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P195",
+   "name": "Võ Đức Văn Sơn",
+   "gender": "M",
+   "club": "THPT Trần Đại Nghĩa",
+   "events": []
+  },
+  {
+   "id": "P196",
+   "name": "Võ Minh Hiển",
+   "gender": "M",
+   "club": "THPT Thái Phiên",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P197",
+   "name": "Võ Minh Thắng",
+   "gender": "M",
+   "club": "THPT Núi Thành",
+   "events": []
+  },
+  {
+   "id": "P198",
+   "name": "Võ Ngọc Vi Thư",
+   "gender": "F",
+   "club": "THPT Lê Quý Đôn",
+   "events": [
+    "XD"
+   ]
+  },
+  {
+   "id": "P199",
+   "name": "Võ Ngọc Vy Thư",
+   "gender": "F",
+   "club": "THPT Phan Bội Châu",
+   "events": []
+  },
+  {
+   "id": "P200",
+   "name": "Võ Nguyễn Ngọc Dung",
+   "gender": "F",
+   "club": "THPT Trần Cao Vân",
+   "events": []
+  },
+  {
+   "id": "P201",
+   "name": "Võ Thị Khánh Thy",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": [
+    "TDN"
+   ]
+  },
+  {
+   "id": "P202",
+   "name": "Võ Thị Khánh Thy",
+   "gender": "F",
+   "club": "THPT Trần Văn Dư",
+   "events": []
+  },
+  {
+   "id": "P203",
+   "name": "Võ Văn Anh Tú",
+   "gender": "M",
+   "club": "THPT Lê Quý Đôn",
+   "events": []
+  },
+  {
+   "id": "P204",
+   "name": "Vương Hữu Anh Tuấn",
+   "gender": "M",
+   "club": "THPT Phan Bội Châu",
+   "events": []
+  },
+  {
+   "id": "P205",
+   "name": "Vương Hữu Anh Tuấn",
+   "gender": "M",
+   "club": "THPT Trần Văn Dư",
+   "events": [
+    "MS"
+   ]
+  }
+ ],
+ "teams": [
+  {
+   "id": "T001",
+   "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+   "club": "THPT Núi Thành",
+   "eventId": "XD",
+   "playerIds": [
+    "P090",
+    "P105"
+   ]
+  },
+  {
+   "id": "T002",
+   "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+   "club": "THPT Trần Văn Dư",
+   "eventId": "XD",
+   "playerIds": [
+    "P004",
+    "P118"
+   ]
+  },
+  {
+   "id": "T003",
+   "name": "Dương Bảo / Lâm Trịnh",
+   "club": "THPT Nguyễn Dục",
+   "eventId": "XD",
+   "playerIds": [
+    "P009",
+    "P042"
+   ]
+  },
+  {
+   "id": "T004",
+   "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+   "club": "THPT C- NB Khiêm",
+   "eventId": "XD",
+   "playerIds": [
+    "P124",
+    "P132"
+   ]
+  },
+  {
+   "id": "T005",
+   "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+   "club": "THPT Trần Cao Vân",
+   "eventId": "XD",
+   "playerIds": [
+    "P066",
+    "P073"
+   ]
+  },
+  {
+   "id": "T006",
+   "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+   "club": "THPT Lê Quý Đôn",
+   "eventId": "XD",
+   "playerIds": [
+    "P134",
+    "P198"
+   ]
+  },
+  {
+   "id": "T007",
+   "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+   "club": "THPT Duy Tân",
+   "eventId": "XD",
+   "playerIds": [
+    "P032",
+    "P062"
+   ]
+  },
+  {
+   "id": "T008",
+   "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+   "club": "THPT Hà Huy Tập",
+   "eventId": "XD",
+   "playerIds": [
+    "P047",
+    "P161"
+   ]
+  },
+  {
+   "id": "T009",
+   "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+   "club": "THPT Tiểu La",
+   "eventId": "XD",
+   "playerIds": [
+    "P127",
+    "P145"
+   ]
+  },
+  {
+   "id": "T010",
+   "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+   "club": "THPT Nguyễn Thái Bình",
+   "eventId": "XD",
+   "playerIds": [
+    "P123",
+    "P181"
+   ]
+  },
+  {
+   "id": "T011",
+   "name": "THPT Cao Bá Quát",
+   "club": "THPT Cao Bá Quát",
+   "eventId": "TDN",
+   "playerIds": [
+    "P084",
+    "P097",
+    "P135",
+    "P183",
+    "P186"
+   ]
+  },
+  {
+   "id": "T012",
+   "name": "THPT Nguyễn Huệ",
+   "club": "THPT Nguyễn Huệ",
+   "eventId": "TDN",
+   "playerIds": [
+    "P078",
+    "P079",
+    "P080",
+    "P081",
+    "P082"
+   ]
+  },
+  {
+   "id": "T013",
+   "name": "THPT Nguyễn Dục",
+   "club": "THPT Nguyễn Dục",
+   "eventId": "TDN",
+   "playerIds": [
+    "P069",
+    "P092",
+    "P155",
+    "P156",
+    "P182"
+   ]
+  },
+  {
+   "id": "T014",
+   "name": "THPT Trần Cao Vân",
+   "club": "THPT Trần Cao Vân",
+   "eventId": "TDN",
+   "playerIds": [
+    "P037",
+    "P071",
+    "P158",
+    "P188",
+    "P191"
+   ]
+  },
+  {
+   "id": "T015",
+   "name": "THPT Phan Bội Châu",
+   "club": "THPT Phan Bội Châu",
+   "eventId": "TDN",
+   "playerIds": [
+    "P043",
+    "P121",
+    "P126",
+    "P150",
+    "P201"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "code": "MS",
+   "name": "Đơn nam",
+   "type": "don",
+   "format": "knockout",
+   "locked": true,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": null,
+   "standings": {},
+   "ranking": []
+  },
+  {
+   "code": "XD",
+   "name": "Đôi nam nữ",
+   "type": "doi",
+   "format": "round_robin",
+   "locked": false,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": null,
+   "standings": {
+    "_RR_": [
+     {
+      "id": "T001",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 1,
+      "display": {
+       "id": "T001",
+       "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+       "club": "THPT Núi Thành"
+      }
+     },
+     {
+      "id": "T002",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 2,
+      "display": {
+       "id": "T002",
+       "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+       "club": "THPT Trần Văn Dư"
+      }
+     },
+     {
+      "id": "T003",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 3,
+      "display": {
+       "id": "T003",
+       "name": "Dương Bảo / Lâm Trịnh",
+       "club": "THPT Nguyễn Dục"
+      }
+     },
+     {
+      "id": "T004",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 4,
+      "display": {
+       "id": "T004",
+       "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+       "club": "THPT C- NB Khiêm"
+      }
+     },
+     {
+      "id": "T005",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 5,
+      "display": {
+       "id": "T005",
+       "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+       "club": "THPT Trần Cao Vân"
+      }
+     },
+     {
+      "id": "T006",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 6,
+      "display": {
+       "id": "T006",
+       "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+       "club": "THPT Lê Quý Đôn"
+      }
+     },
+     {
+      "id": "T007",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 7,
+      "display": {
+       "id": "T007",
+       "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+       "club": "THPT Duy Tân"
+      }
+     },
+     {
+      "id": "T008",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 8,
+      "display": {
+       "id": "T008",
+       "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+       "club": "THPT Hà Huy Tập"
+      }
+     },
+     {
+      "id": "T009",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 9,
+      "display": {
+       "id": "T009",
+       "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+       "club": "THPT Tiểu La"
+      }
+     },
+     {
+      "id": "T010",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 10,
+      "display": {
+       "id": "T010",
+       "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+       "club": "THPT Nguyễn Thái Bình"
+      }
+     }
+    ]
+   },
+   "ranking": [
+    {
+     "rank": 1,
+     "rankLabel": "1",
+     "display": {
+      "id": "T001",
+      "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+      "club": "THPT Núi Thành"
+     }
+    },
+    {
+     "rank": 2,
+     "rankLabel": "2",
+     "display": {
+      "id": "T002",
+      "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+      "club": "THPT Trần Văn Dư"
+     }
+    },
+    {
+     "rank": 3,
+     "rankLabel": "3",
+     "display": {
+      "id": "T003",
+      "name": "Dương Bảo / Lâm Trịnh",
+      "club": "THPT Nguyễn Dục"
+     }
+    },
+    {
+     "rank": 4,
+     "rankLabel": "4",
+     "display": {
+      "id": "T004",
+      "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+      "club": "THPT C- NB Khiêm"
+     }
+    },
+    {
+     "rank": 5,
+     "rankLabel": "5",
+     "display": {
+      "id": "T005",
+      "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+      "club": "THPT Trần Cao Vân"
+     }
+    },
+    {
+     "rank": 6,
+     "rankLabel": "6",
+     "display": {
+      "id": "T006",
+      "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+      "club": "THPT Lê Quý Đôn"
+     }
+    },
+    {
+     "rank": 7,
+     "rankLabel": "7",
+     "display": {
+      "id": "T007",
+      "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+      "club": "THPT Duy Tân"
+     }
+    },
+    {
+     "rank": 8,
+     "rankLabel": "8",
+     "display": {
+      "id": "T008",
+      "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+      "club": "THPT Hà Huy Tập"
+     }
+    },
+    {
+     "rank": 9,
+     "rankLabel": "9",
+     "display": {
+      "id": "T009",
+      "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+      "club": "THPT Tiểu La"
+     }
+    },
+    {
+     "rank": 10,
+     "rankLabel": "10",
+     "display": {
+      "id": "T010",
+      "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+      "club": "THPT Nguyễn Thái Bình"
+     }
+    }
+   ]
+  },
+  {
+   "code": "TDN",
+   "name": "Đồng đội nam",
+   "type": "dongdoi",
+   "format": "group_ko",
+   "locked": false,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": [
+    "MS",
+    "MS",
+    "MD"
+   ],
+   "standings": {
+    "A": [
+     {
+      "id": "T013",
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "points": 2,
+      "setWon": 1,
+      "setLost": 0,
+      "ptWon": 3,
+      "ptLost": 0,
+      "rank": 1,
+      "display": {
+       "id": "T013",
+       "name": "THPT Nguyễn Dục",
+       "club": "THPT Nguyễn Dục"
+      }
+     },
+     {
+      "id": "T014",
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "points": 1,
+      "setWon": 0,
+      "setLost": 1,
+      "ptWon": 0,
+      "ptLost": 3,
+      "rank": 2,
+      "display": {
+       "id": "T014",
+       "name": "THPT Trần Cao Vân",
+       "club": "THPT Trần Cao Vân"
+      }
+     }
+    ],
+    "B": [
+     {
+      "id": "T011",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 1,
+      "display": {
+       "id": "T011",
+       "name": "THPT Cao Bá Quát",
+       "club": "THPT Cao Bá Quát"
+      }
+     },
+     {
+      "id": "T012",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 2,
+      "display": {
+       "id": "T012",
+       "name": "THPT Nguyễn Huệ",
+       "club": "THPT Nguyễn Huệ"
+      }
+     },
+     {
+      "id": "T015",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0,
+      "setWon": 0,
+      "setLost": 0,
+      "ptWon": 0,
+      "ptLost": 0,
+      "rank": 3,
+      "display": {
+       "id": "T015",
+       "name": "THPT Phan Bội Châu",
+       "club": "THPT Phan Bội Châu"
+      }
+     }
+    ]
+   },
+   "ranking": []
+  }
+ ],
+ "matches": [
+  {
+   "id": "MS-R1-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 1,
+   "sideA": null,
+   "sideB": {
+    "id": "P007",
+    "name": "Châu Vũ Phong",
+    "club": "THPT Trần Cao Vân"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": null,
+   "dayLabel": null,
+   "session": null,
+   "court": null,
+   "time": null,
+   "sets": [],
+   "walkover": "BYE",
+   "winner": "P007",
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-2",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 2,
+   "sideA": {
+    "id": "P017",
+    "name": "Đinh Hoàng Anh",
+    "club": "THPT Nguyễn Trãi"
+   },
+   "sideB": {
+    "id": "P025",
+    "name": "Hồ Nhật Trường",
+    "club": "THPT Núi Thành"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 0,
+   "court": 4,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-3",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 3,
+   "sideA": {
+    "id": "P029",
+    "name": "Huỳnh Dương Viết Khải",
+    "club": "THPT Phan Bội Châu"
+   },
+   "sideB": {
+    "id": "P031",
+    "name": "Huỳnh Kim Đạt",
+    "club": "THPT Hà Huy Tập"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 4,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-4",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 4,
+   "sideA": {
+    "id": "P035",
+    "name": "Huỳnh Ngọc Bảo",
+    "club": "THPT Võ Nguyên Giáp"
+   },
+   "sideB": {
+    "id": "P039",
+    "name": "Huỳnh Tấn Hưng",
+    "club": "THPT Cao Bá Quát"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 0,
+   "court": 1,
+   "time": "08:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-5",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 5,
+   "sideA": {
+    "id": "P050",
+    "name": "Lê Ngô Quốc Bo",
+    "club": "THPT Hùng Vương"
+   },
+   "sideB": {
+    "id": "P052",
+    "name": "Lê Quang Phát",
+    "club": "THPT Trần Văn Dư"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 1,
+   "time": "14:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-6",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 6,
+   "sideA": {
+    "id": "P053",
+    "name": "Lê Quang Thành",
+    "club": "THPT Cao Bá Quát"
+   },
+   "sideB": {
+    "id": "P055",
+    "name": "Lê Tấn Thuận",
+    "club": "THPT Huỳnh Thúc Kháng"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 0,
+   "court": 2,
+   "time": "08:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-7",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 7,
+   "sideA": {
+    "id": "P072",
+    "name": "NGÔ QUANG HUY",
+    "club": "THPT Tiểu La"
+   },
+   "sideB": {
+    "id": "P076",
+    "name": "Ngô Tiến Minh Nhật",
+    "club": "THPT Phan Châu Trinh"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 2,
+   "time": "14:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-8",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 8,
+   "sideA": {
+    "id": "P083",
+    "name": "Ngô Xuân Thắng",
+    "club": "THPT Lương Thúc Kỳ"
+   },
+   "sideB": {
+    "id": "P086",
+    "name": "Nguyễn Anh Kiệt",
+    "club": "THPT Chu Văn An"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 0,
+   "court": 3,
+   "time": "08:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-9",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 9,
+   "sideA": {
+    "id": "P094",
+    "name": "Nguyễn Gia Bảo",
+    "club": "THPT Khâm Đức"
+   },
+   "sideB": {
+    "id": "P098",
+    "name": "Nguyễn Hữu Hoàng Duy",
+    "club": "THPT Phan Bội Châu"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 4,
+   "time": "14:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-10",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 10,
+   "sideA": {
+    "id": "P112",
+    "name": "Nguyễn Tấn Vương",
+    "club": "THPT Trần Quý Cáp"
+   },
+   "sideB": {
+    "id": "P113",
+    "name": "Nguyễn Thanh Bình",
+    "club": "THPT Cao Bá Quát"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 0,
+   "court": 4,
+   "time": "08:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-11",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 11,
+   "sideA": {
+    "id": "P117",
+    "name": "Nguyễn Thành Phát",
+    "club": "THPT Hùng Vương"
+   },
+   "sideB": {
+    "id": "P148",
+    "name": "Phan Văn Minh Hiếu",
+    "club": "PTDTNT Nước Oa"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 1,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-12",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 12,
+   "sideA": {
+    "id": "P154",
+    "name": "Thiều Gia Khánh",
+    "club": "THPT C- NB Khiêm"
+   },
+   "sideB": {
+    "id": "P162",
+    "name": "Trần Hữu Phước",
+    "club": "GDTX TỈNH"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 0,
+   "court": 1,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-13",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 13,
+   "sideA": {
+    "id": "P164",
+    "name": "Trần Minh Hiếu",
+    "club": "THPT Lý Tự Trọng"
+   },
+   "sideB": {
+    "id": "P165",
+    "name": "Trần Minh Kha",
+    "club": "THPT Cao Bá Quát"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 2,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-14",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 14,
+   "sideA": {
+    "id": "P168",
+    "name": "Trần Ngọc Nghĩa",
+    "club": "THPT Nam Trà My"
+   },
+   "sideB": {
+    "id": "P173",
+    "name": "Trần Quốc Huy",
+    "club": "THPT Đỗ Đăng Tuyển"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 0,
+   "court": 2,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-15",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 15,
+   "sideA": {
+    "id": "P180",
+    "name": "Trần Văn Minh Tài",
+    "club": "THPT Lê Hồng Phong"
+   },
+   "sideB": {
+    "id": "P184",
+    "name": "Trương Công Tiến",
+    "club": "THPT Quế Sơn"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 4,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-16",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Vòng 1/16",
+   "pos": 16,
+   "sideA": {
+    "id": "P185",
+    "name": "Trương Đình Ngọa Long",
+    "club": "PTDTNT Phước Sơn"
+   },
+   "sideB": {
+    "id": "P205",
+    "name": "Vương Hữu Anh Tuấn",
+    "club": "THPT Trần Văn Dư"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 0,
+   "court": 3,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/8",
+   "pos": 1,
+   "sideA": {
+    "id": "P007",
+    "name": "Châu Vũ Phong",
+    "club": "THPT Trần Cao Vân"
+   },
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 1,
+   "time": "15:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-2",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/8",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-4"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 2,
+   "time": "15:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-3",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/8",
+   "pos": 3,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-5"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-6"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 3,
+   "time": "15:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-4",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/8",
+   "pos": 4,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-7"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-8"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 4,
+   "time": "15:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-5",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/8",
+   "pos": 5,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-9"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-10"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 1,
+   "time": "15:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-6",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/8",
+   "pos": 6,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-11"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-12"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "21:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-7",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/8",
+   "pos": 7,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-13"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-14"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 2,
+   "time": "15:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-8",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Vòng 1/8",
+   "pos": 8,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-15"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-16"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Tứ kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 3,
+   "time": "16:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-2",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Tứ kết",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-4"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-3",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Tứ kết",
+   "pos": 3,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-5"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-6"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "22:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-4",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Tứ kết",
+   "pos": 4,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-7"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-8"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R4-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 4,
+   "roundName": "Bán kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R3-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R3-2"
+   },
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 3,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R4-2",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 4,
+   "roundName": "Bán kết",
+   "pos": 2,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R3-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R3-4"
+   },
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 0,
+   "court": 3,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-R5-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 5,
+   "roundName": "Chung kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R4-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R4-2"
+   },
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 1,
+   "court": 4,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "MS-3RD",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 5,
+   "roundName": "Tranh hạng 3–4",
+   "pos": 0,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "loser",
+    "match": "MS-R4-1"
+   },
+   "srcB": {
+    "type": "loser",
+    "match": "MS-R4-2"
+   },
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 0,
+   "court": 4,
+   "time": "08:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L1-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 1,
+   "roundName": "Lượt 1",
+   "pos": 1,
+   "sideA": {
+    "id": "T007",
+    "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+    "club": "THPT Duy Tân"
+   },
+   "sideB": {
+    "id": "T002",
+    "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+    "club": "THPT Trần Văn Dư"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 2,
+   "court": 4,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L1-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 1,
+   "roundName": "Lượt 1",
+   "pos": 2,
+   "sideA": {
+    "id": "T003",
+    "name": "Dương Bảo / Lâm Trịnh",
+    "club": "THPT Nguyễn Dục"
+   },
+   "sideB": {
+    "id": "T004",
+    "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+    "club": "THPT C- NB Khiêm"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L1-3",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 1,
+   "roundName": "Lượt 1",
+   "pos": 3,
+   "sideA": {
+    "id": "T005",
+    "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+    "club": "THPT Trần Cao Vân"
+   },
+   "sideB": {
+    "id": "T010",
+    "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+    "club": "THPT Nguyễn Thái Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 2,
+   "court": 3,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L1-4",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 1,
+   "roundName": "Lượt 1",
+   "pos": 4,
+   "sideA": {
+    "id": "T006",
+    "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+    "club": "THPT Lê Quý Đôn"
+   },
+   "sideB": {
+    "id": "T001",
+    "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+    "club": "THPT Núi Thành"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L1-5",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 1,
+   "roundName": "Lượt 1",
+   "pos": 5,
+   "sideA": {
+    "id": "T008",
+    "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+    "club": "THPT Hà Huy Tập"
+   },
+   "sideB": {
+    "id": "T009",
+    "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+    "club": "THPT Tiểu La"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "22:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L2-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 2,
+   "roundName": "Lượt 2",
+   "pos": 1,
+   "sideA": {
+    "id": "T007",
+    "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+    "club": "THPT Duy Tân"
+   },
+   "sideB": {
+    "id": "T004",
+    "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+    "club": "THPT C- NB Khiêm"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L2-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 2,
+   "roundName": "Lượt 2",
+   "pos": 2,
+   "sideA": {
+    "id": "T002",
+    "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+    "club": "THPT Trần Văn Dư"
+   },
+   "sideB": {
+    "id": "T010",
+    "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+    "club": "THPT Nguyễn Thái Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 2,
+   "court": 3,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L2-3",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 2,
+   "roundName": "Lượt 2",
+   "pos": 3,
+   "sideA": {
+    "id": "T003",
+    "name": "Dương Bảo / Lâm Trịnh",
+    "club": "THPT Nguyễn Dục"
+   },
+   "sideB": {
+    "id": "T001",
+    "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+    "club": "THPT Núi Thành"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 2,
+   "court": 4,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L2-4",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 2,
+   "roundName": "Lượt 2",
+   "pos": 4,
+   "sideA": {
+    "id": "T005",
+    "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+    "club": "THPT Trần Cao Vân"
+   },
+   "sideB": {
+    "id": "T009",
+    "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+    "club": "THPT Tiểu La"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 0,
+   "court": 1,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L2-5",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 2,
+   "roundName": "Lượt 2",
+   "pos": 5,
+   "sideA": {
+    "id": "T006",
+    "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+    "club": "THPT Lê Quý Đôn"
+   },
+   "sideB": {
+    "id": "T008",
+    "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+    "club": "THPT Hà Huy Tập"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 1,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L3-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 3,
+   "roundName": "Lượt 3",
+   "pos": 1,
+   "sideA": {
+    "id": "T007",
+    "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+    "club": "THPT Duy Tân"
+   },
+   "sideB": {
+    "id": "T010",
+    "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+    "club": "THPT Nguyễn Thái Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L3-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 3,
+   "roundName": "Lượt 3",
+   "pos": 2,
+   "sideA": {
+    "id": "T004",
+    "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+    "club": "THPT C- NB Khiêm"
+   },
+   "sideB": {
+    "id": "T001",
+    "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+    "club": "THPT Núi Thành"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 0,
+   "court": 2,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L3-3",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 3,
+   "roundName": "Lượt 3",
+   "pos": 3,
+   "sideA": {
+    "id": "T002",
+    "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+    "club": "THPT Trần Văn Dư"
+   },
+   "sideB": {
+    "id": "T009",
+    "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+    "club": "THPT Tiểu La"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 2,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L3-4",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 3,
+   "roundName": "Lượt 3",
+   "pos": 4,
+   "sideA": {
+    "id": "T003",
+    "name": "Dương Bảo / Lâm Trịnh",
+    "club": "THPT Nguyễn Dục"
+   },
+   "sideB": {
+    "id": "T008",
+    "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+    "club": "THPT Hà Huy Tập"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L3-5",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 3,
+   "roundName": "Lượt 3",
+   "pos": 5,
+   "sideA": {
+    "id": "T005",
+    "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+    "club": "THPT Trần Cao Vân"
+   },
+   "sideB": {
+    "id": "T006",
+    "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+    "club": "THPT Lê Quý Đôn"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "23:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L4-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 4,
+   "roundName": "Lượt 4",
+   "pos": 1,
+   "sideA": {
+    "id": "T007",
+    "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+    "club": "THPT Duy Tân"
+   },
+   "sideB": {
+    "id": "T001",
+    "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+    "club": "THPT Núi Thành"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 3,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L4-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 4,
+   "roundName": "Lượt 4",
+   "pos": 2,
+   "sideA": {
+    "id": "T010",
+    "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+    "club": "THPT Nguyễn Thái Bình"
+   },
+   "sideB": {
+    "id": "T009",
+    "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+    "club": "THPT Tiểu La"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 4,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L4-3",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 4,
+   "roundName": "Lượt 4",
+   "pos": 3,
+   "sideA": {
+    "id": "T004",
+    "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+    "club": "THPT C- NB Khiêm"
+   },
+   "sideB": {
+    "id": "T008",
+    "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+    "club": "THPT Hà Huy Tập"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L4-4",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 4,
+   "roundName": "Lượt 4",
+   "pos": 4,
+   "sideA": {
+    "id": "T002",
+    "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+    "club": "THPT Trần Văn Dư"
+   },
+   "sideB": {
+    "id": "T006",
+    "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+    "club": "THPT Lê Quý Đôn"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 1,
+   "court": 3,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L4-5",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 4,
+   "roundName": "Lượt 4",
+   "pos": 5,
+   "sideA": {
+    "id": "T003",
+    "name": "Dương Bảo / Lâm Trịnh",
+    "club": "THPT Nguyễn Dục"
+   },
+   "sideB": {
+    "id": "T005",
+    "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+    "club": "THPT Trần Cao Vân"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L5-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 5,
+   "roundName": "Lượt 5",
+   "pos": 1,
+   "sideA": {
+    "id": "T007",
+    "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+    "club": "THPT Duy Tân"
+   },
+   "sideB": {
+    "id": "T009",
+    "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+    "club": "THPT Tiểu La"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L5-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 5,
+   "roundName": "Lượt 5",
+   "pos": 2,
+   "sideA": {
+    "id": "T001",
+    "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+    "club": "THPT Núi Thành"
+   },
+   "sideB": {
+    "id": "T008",
+    "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+    "club": "THPT Hà Huy Tập"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L5-3",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 5,
+   "roundName": "Lượt 5",
+   "pos": 3,
+   "sideA": {
+    "id": "T010",
+    "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+    "club": "THPT Nguyễn Thái Bình"
+   },
+   "sideB": {
+    "id": "T006",
+    "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+    "club": "THPT Lê Quý Đôn"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 3,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L5-4",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 5,
+   "roundName": "Lượt 5",
+   "pos": 4,
+   "sideA": {
+    "id": "T004",
+    "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+    "club": "THPT C- NB Khiêm"
+   },
+   "sideB": {
+    "id": "T005",
+    "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+    "club": "THPT Trần Cao Vân"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 4,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L5-5",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 5,
+   "roundName": "Lượt 5",
+   "pos": 5,
+   "sideA": {
+    "id": "T002",
+    "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+    "club": "THPT Trần Văn Dư"
+   },
+   "sideB": {
+    "id": "T003",
+    "name": "Dương Bảo / Lâm Trịnh",
+    "club": "THPT Nguyễn Dục"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "21:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L6-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 6,
+   "roundName": "Lượt 6",
+   "pos": 1,
+   "sideA": {
+    "id": "T007",
+    "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+    "club": "THPT Duy Tân"
+   },
+   "sideB": {
+    "id": "T008",
+    "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+    "club": "THPT Hà Huy Tập"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 0,
+   "court": 1,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L6-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 6,
+   "roundName": "Lượt 6",
+   "pos": 2,
+   "sideA": {
+    "id": "T009",
+    "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+    "club": "THPT Tiểu La"
+   },
+   "sideB": {
+    "id": "T006",
+    "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+    "club": "THPT Lê Quý Đôn"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 1,
+   "court": 1,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L6-3",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 6,
+   "roundName": "Lượt 6",
+   "pos": 3,
+   "sideA": {
+    "id": "T001",
+    "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+    "club": "THPT Núi Thành"
+   },
+   "sideB": {
+    "id": "T005",
+    "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+    "club": "THPT Trần Cao Vân"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "21:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L6-4",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 6,
+   "roundName": "Lượt 6",
+   "pos": 4,
+   "sideA": {
+    "id": "T010",
+    "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+    "club": "THPT Nguyễn Thái Bình"
+   },
+   "sideB": {
+    "id": "T003",
+    "name": "Dương Bảo / Lâm Trịnh",
+    "club": "THPT Nguyễn Dục"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 3,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L6-5",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 6,
+   "roundName": "Lượt 6",
+   "pos": 5,
+   "sideA": {
+    "id": "T004",
+    "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+    "club": "THPT C- NB Khiêm"
+   },
+   "sideB": {
+    "id": "T002",
+    "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+    "club": "THPT Trần Văn Dư"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 2,
+   "court": 4,
+   "time": "22:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L7-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 7,
+   "roundName": "Lượt 7",
+   "pos": 1,
+   "sideA": {
+    "id": "T007",
+    "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+    "club": "THPT Duy Tân"
+   },
+   "sideB": {
+    "id": "T006",
+    "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+    "club": "THPT Lê Quý Đôn"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 2,
+   "dayLabel": "06/08/2026",
+   "session": 0,
+   "court": 3,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L7-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 7,
+   "roundName": "Lượt 7",
+   "pos": 2,
+   "sideA": {
+    "id": "T008",
+    "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+    "club": "THPT Hà Huy Tập"
+   },
+   "sideB": {
+    "id": "T005",
+    "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+    "club": "THPT Trần Cao Vân"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L7-3",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 7,
+   "roundName": "Lượt 7",
+   "pos": 3,
+   "sideA": {
+    "id": "T009",
+    "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+    "club": "THPT Tiểu La"
+   },
+   "sideB": {
+    "id": "T003",
+    "name": "Dương Bảo / Lâm Trịnh",
+    "club": "THPT Nguyễn Dục"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 1,
+   "court": 2,
+   "time": "14:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L7-4",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 7,
+   "roundName": "Lượt 7",
+   "pos": 4,
+   "sideA": {
+    "id": "T001",
+    "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+    "club": "THPT Núi Thành"
+   },
+   "sideB": {
+    "id": "T002",
+    "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+    "club": "THPT Trần Văn Dư"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 0,
+   "court": 2,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L7-5",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 7,
+   "roundName": "Lượt 7",
+   "pos": 5,
+   "sideA": {
+    "id": "T010",
+    "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+    "club": "THPT Nguyễn Thái Bình"
+   },
+   "sideB": {
+    "id": "T004",
+    "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+    "club": "THPT C- NB Khiêm"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L8-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 8,
+   "roundName": "Lượt 8",
+   "pos": 1,
+   "sideA": {
+    "id": "T007",
+    "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+    "club": "THPT Duy Tân"
+   },
+   "sideB": {
+    "id": "T005",
+    "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+    "club": "THPT Trần Cao Vân"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 2,
+   "court": 3,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L8-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 8,
+   "roundName": "Lượt 8",
+   "pos": 2,
+   "sideA": {
+    "id": "T006",
+    "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+    "club": "THPT Lê Quý Đôn"
+   },
+   "sideB": {
+    "id": "T003",
+    "name": "Dương Bảo / Lâm Trịnh",
+    "club": "THPT Nguyễn Dục"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 1,
+   "court": 3,
+   "time": "15:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L8-3",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 8,
+   "roundName": "Lượt 8",
+   "pos": 3,
+   "sideA": {
+    "id": "T008",
+    "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+    "club": "THPT Hà Huy Tập"
+   },
+   "sideB": {
+    "id": "T002",
+    "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+    "club": "THPT Trần Văn Dư"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 2,
+   "court": 4,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L8-4",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 8,
+   "roundName": "Lượt 8",
+   "pos": 4,
+   "sideA": {
+    "id": "T009",
+    "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+    "club": "THPT Tiểu La"
+   },
+   "sideB": {
+    "id": "T004",
+    "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+    "club": "THPT C- NB Khiêm"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L8-5",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 8,
+   "roundName": "Lượt 8",
+   "pos": 5,
+   "sideA": {
+    "id": "T001",
+    "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+    "club": "THPT Núi Thành"
+   },
+   "sideB": {
+    "id": "T010",
+    "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+    "club": "THPT Nguyễn Thái Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "19:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L9-1",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 9,
+   "roundName": "Lượt 9",
+   "pos": 1,
+   "sideA": {
+    "id": "T007",
+    "name": "Huỳnh Kim Đạt / Lê Trúc Uyên",
+    "club": "THPT Duy Tân"
+   },
+   "sideB": {
+    "id": "T003",
+    "name": "Dương Bảo / Lâm Trịnh",
+    "club": "THPT Nguyễn Dục"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L9-2",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 9,
+   "roundName": "Lượt 9",
+   "pos": 2,
+   "sideA": {
+    "id": "T005",
+    "name": "LƯƠNG THUÝ NGA / NGÔ QUANG HUY",
+    "club": "THPT Trần Cao Vân"
+   },
+   "sideB": {
+    "id": "T002",
+    "name": "Bùi Nguyễn Quỳnh Anh / Nguyễn Thành Phát",
+    "club": "THPT Trần Văn Dư"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L9-3",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 9,
+   "roundName": "Lượt 9",
+   "pos": 3,
+   "sideA": {
+    "id": "T006",
+    "name": "Nguyễn Văn Toàn / Võ Ngọc Vi Thư",
+    "club": "THPT Lê Quý Đôn"
+   },
+   "sideB": {
+    "id": "T004",
+    "name": "Nguyễn Thị Tâm Đan / Nguyễn Văn Khánh Hưng",
+    "club": "THPT C- NB Khiêm"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 2,
+   "court": 3,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L9-4",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 9,
+   "roundName": "Lượt 9",
+   "pos": 4,
+   "sideA": {
+    "id": "T008",
+    "name": "Lê Huỳnh Nguyên Trang / Trần Huy Đô",
+    "club": "THPT Hà Huy Tập"
+   },
+   "sideB": {
+    "id": "T010",
+    "name": "Nguyễn Thị Minh Phương / Trần Văn Minh Tài",
+    "club": "THPT Nguyễn Thái Bình"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 2,
+   "court": 4,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "XD-VT-L9-5",
+   "eventId": "XD",
+   "eventName": "Đôi nam nữ",
+   "stage": "rr",
+   "group": null,
+   "round": 9,
+   "roundName": "Lượt 9",
+   "pos": 5,
+   "sideA": {
+    "id": "T009",
+    "name": "Nguyễn Thị Thùy Nhung / Phan Hồng Nguyên Kha",
+    "club": "THPT Tiểu La"
+   },
+   "sideB": {
+    "id": "T001",
+    "name": "Nguyễn Cao Đức / Nguyễn Lê Na",
+    "club": "THPT Núi Thành"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 3,
+   "dayLabel": "07/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "21:00",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "TDN-BA-L1-1",
+   "eventId": "TDN",
+   "eventName": "Đồng đội nam",
+   "stage": "group",
+   "group": "A",
+   "round": 1,
+   "roundName": "Bảng A · Lượt 1",
+   "pos": 1,
+   "sideA": {
+    "id": "T013",
+    "name": "THPT Nguyễn Dục",
+    "club": "THPT Nguyễn Dục"
+   },
+   "sideB": {
+    "id": "T014",
+    "name": "THPT Trần Cao Vân",
+    "club": "THPT Trần Cao Vân"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 0,
+   "court": 1,
+   "time": "07:30",
+   "sets": [
+    [
+     3,
+     0
+    ]
+   ],
+   "walkover": null,
+   "winner": "T013",
+   "subMatches": [
+    {
+     "rubber": "MS",
+     "playersA": [
+      "P069"
+     ],
+     "playersB": [
+      "P071"
+     ],
+     "sets": [
+      [
+       21,
+       11
+      ],
+      [
+       21,
+       15
+      ]
+     ],
+     "winner": "A"
+    },
+    {
+     "rubber": "MS",
+     "playersA": [
+      "P092"
+     ],
+     "playersB": [
+      "P158"
+     ],
+     "sets": [
+      [
+       21,
+       15
+      ],
+      [
+       22,
+       20
+      ]
+     ],
+     "winner": "A"
+    },
+    {
+     "rubber": "MD",
+     "playersA": [
+      "P156",
+      "P182"
+     ],
+     "playersB": [
+      "P188",
+      "P191"
+     ],
+     "sets": [
+      [
+       21,
+       12
+      ],
+      [
+       21,
+       11
+      ]
+     ],
+     "winner": "A"
+    }
+   ]
+  },
+  {
+   "id": "TDN-BB-L1-1",
+   "eventId": "TDN",
+   "eventName": "Đồng đội nam",
+   "stage": "group",
+   "group": "B",
+   "round": 1,
+   "roundName": "Bảng B · Lượt 1",
+   "pos": 1,
+   "sideA": {
+    "id": "T011",
+    "name": "THPT Cao Bá Quát",
+    "club": "THPT Cao Bá Quát"
+   },
+   "sideB": {
+    "id": "T012",
+    "name": "THPT Nguyễn Huệ",
+    "club": "THPT Nguyễn Huệ"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 1,
+   "court": 1,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "TDN-BB-L2-1",
+   "eventId": "TDN",
+   "eventName": "Đồng đội nam",
+   "stage": "group",
+   "group": "B",
+   "round": 2,
+   "roundName": "Bảng B · Lượt 2",
+   "pos": 1,
+   "sideA": {
+    "id": "T015",
+    "name": "THPT Phan Bội Châu",
+    "club": "THPT Phan Bội Châu"
+   },
+   "sideB": {
+    "id": "T012",
+    "name": "THPT Nguyễn Huệ",
+    "club": "THPT Nguyễn Huệ"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 2,
+   "court": 1,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "TDN-BB-L3-1",
+   "eventId": "TDN",
+   "eventName": "Đồng đội nam",
+   "stage": "group",
+   "group": "B",
+   "round": 3,
+   "roundName": "Bảng B · Lượt 3",
+   "pos": 1,
+   "sideA": {
+    "id": "T015",
+    "name": "THPT Phan Bội Châu",
+    "club": "THPT Phan Bội Châu"
+   },
+   "sideB": {
+    "id": "T011",
+    "name": "THPT Cao Bá Quát",
+    "club": "THPT Cao Bá Quát"
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 2,
+   "court": 2,
+   "time": "20:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "TDN-R1-1",
+   "eventId": "TDN",
+   "eventName": "Đồng đội nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Bán kết",
+   "pos": 1,
+   "sideA": {
+    "id": "T013",
+    "name": "THPT Nguyễn Dục",
+    "club": "THPT Nguyễn Dục"
+   },
+   "sideB": null,
+   "srcA": {
+    "type": "group",
+    "group": "A",
+    "rank": 1
+   },
+   "srcB": {
+    "type": "group",
+    "group": "B",
+    "rank": 2
+   },
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 0,
+   "court": 2,
+   "time": "07:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "TDN-R1-2",
+   "eventId": "TDN",
+   "eventName": "Đồng đội nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Bán kết",
+   "pos": 2,
+   "sideA": null,
+   "sideB": {
+    "id": "T014",
+    "name": "THPT Trần Cao Vân",
+    "club": "THPT Trần Cao Vân"
+   },
+   "srcA": {
+    "type": "group",
+    "group": "B",
+    "rank": 1
+   },
+   "srcB": {
+    "type": "group",
+    "group": "A",
+    "rank": 2
+   },
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 1,
+   "court": 2,
+   "time": "13:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "TDN-R2-1",
+   "eventId": "TDN",
+   "eventName": "Đồng đội nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Chung kết",
+   "pos": 1,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "winner",
+    "match": "TDN-R1-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "TDN-R1-2"
+   },
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 2,
+   "court": 3,
+   "time": "18:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  },
+  {
+   "id": "TDN-3RD",
+   "eventId": "TDN",
+   "eventName": "Đồng đội nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Tranh hạng 3–4",
+   "pos": 0,
+   "sideA": null,
+   "sideB": null,
+   "srcA": {
+    "type": "loser",
+    "match": "TDN-R1-1"
+   },
+   "srcB": {
+    "type": "loser",
+    "match": "TDN-R1-2"
+   },
+   "status": "da_xep_lich",
+   "day": 1,
+   "dayLabel": "05/08/2026",
+   "session": 1,
+   "court": 3,
+   "time": "15:30",
+   "sets": [],
+   "walkover": null,
+   "winner": null,
+   "subMatches": null
+  }
+ ]
+}
