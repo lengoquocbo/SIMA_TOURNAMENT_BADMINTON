@@ -1,42 +1,10 @@
 [
  {
-  "id": "giai-20260729-181043",
-  "name": "CUP_ASEAN",
+  "id": "giai-20260915-221223",
+  "name": "Demo",
   "status": "sap_dien_ra",
-  "startDate": "2026-07-30",
-  "location": "THPT Hùng Vương",
-  "updatedAt": "2026-07-30T02:20:01"
- },
- {
-  "id": "giai-20260730-020451",
-  "name": "CUP_ABC",
-  "status": "sap_dien_ra",
-  "startDate": "2026-07-31",
-  "location": "Nhà Thi Đấu Đại Học Quảng Nam",
-  "updatedAt": "2026-07-30T02:11:18"
- },
- {
-  "id": "giai-20260804-231029",
-  "name": "giải cầu lông thành phố đà nẵng mở rộng năm 2026",
-  "status": "sap_dien_ra",
-  "startDate": "2026-08-05",
-  "location": "nhà thi đấu đà nẵng",
-  "updatedAt": "2026-08-04T23:47:50"
- },
- {
-  "id": "giai-20260805-145453",
-  "name": "GIẢI CẦU LÔNG THÀNH PHỐ MỞ RỘNG NĂM 2026",
-  "status": "sap_dien_ra",
-  "startDate": "2026-08-06",
-  "location": "NHÀ VĂN HOÁ THIẾU NHI TỈNH",
-  "updatedAt": "2026-08-05T15:14:56"
- },
- {
-  "id": "giai-20260805-155842",
-  "name": "giải cầu lông mở rộng năm 2026",
-  "status": "sap_dien_ra",
-  "startDate": "2026-08-06",
-  "location": "",
-  "updatedAt": "2026-08-05T16:06:25"
+  "startDate": "2026-09-16",
+  "location": "nhà văn hoá",
+  "updatedAt": "2026-09-15T22:20:04"
  }
 ]
