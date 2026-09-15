@@ -1,0 +1,695 @@
+{
+ "id": "giai-20260915-221223",
+ "updatedAt": "2026-09-15T22:20:04",
+ "tournament": {
+  "name": "Demo",
+  "location": "nhà văn hoá",
+  "organizer": "nhà văn hoá",
+  "startDate": "2026-09-16",
+  "numDays": 2,
+  "status": "sap_dien_ra",
+  "sessions": [
+   {
+    "name": "Sáng",
+    "start": "07:30",
+    "end": "11:30",
+    "courts": 4
+   },
+   {
+    "name": "chiều",
+    "start": "13:30",
+    "end": "17:30",
+    "courts": 4
+   }
+  ]
+ },
+ "players": [
+  {
+   "id": "P001",
+   "name": "AVô Thị Liên",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P002",
+   "name": "Bùi Lê Hoàng",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P003",
+   "name": "Bùi Nguyễn Quỳnh Anh",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P004",
+   "name": "Cao Tiến Thiên",
+   "gender": "M",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P005",
+   "name": "Châu Hồ Hoàng Linh",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P006",
+   "name": "Châu Vũ Phong",
+   "gender": "M",
+   "club": "",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P007",
+   "name": "Dương Bảo",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P008",
+   "name": "Dương Tấn Khuê",
+   "gender": "M",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P009",
+   "name": "Đặng Ngọc Minh Thịnh",
+   "gender": "M",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P010",
+   "name": "Đặng Phước Đức",
+   "gender": "M",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P011",
+   "name": "Đặng Quỳnh Như",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P012",
+   "name": "Đặng Văn Bảo",
+   "gender": "M",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P013",
+   "name": "Đinh Hoàng Anh",
+   "gender": "M",
+   "club": "",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P014",
+   "name": "Đinh Hoàng Yến Ngọc",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P015",
+   "name": "Đinh Hoàng",
+   "gender": "M",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P016",
+   "name": "Đinh Quốc Khánh",
+   "gender": "M",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P017",
+   "name": "Đoàn Huỳnh Hân Hân",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P018",
+   "name": "Hà Nhật Tín",
+   "gender": "M",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P019",
+   "name": "Hoàng Thị Hà My",
+   "gender": "M",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P020",
+   "name": "Hồ Lê Gia Kiên",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P021",
+   "name": "Hồ Nhật Trường",
+   "gender": "M",
+   "club": "",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P022",
+   "name": "Hốih Thị Linh",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P023",
+   "name": "Hôil Thị Thu Thìn",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P024",
+   "name": "Huỳnh Dương Viết Khải",
+   "gender": "M",
+   "club": "",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P025",
+   "name": "Huỳnh Kim Đạt",
+   "gender": "M",
+   "club": "",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P026",
+   "name": "Huỳnh Ngọc Bảo Khanh",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P027",
+   "name": "Huỳnh Ngọc Bảo",
+   "gender": "M",
+   "club": "",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P028",
+   "name": "Huỳnh Ngọc Quỳnh Trâm",
+   "gender": "M",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P029",
+   "name": "Huỳnh Như Ý",
+   "gender": "M",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P030",
+   "name": "Huỳnh Phạm Thảo Nguyên",
+   "gender": "F",
+   "club": "",
+   "events": []
+  },
+  {
+   "id": "P031",
+   "name": "Huỳnh Tấn Hưng",
+   "gender": "M",
+   "club": "",
+   "events": [
+    "MS"
+   ]
+  },
+  {
+   "id": "P032",
+   "name": "Ka Phu Xuân Phương",
+   "gender": "M",
+   "club": "",
+   "events": []
+  }
+ ],
+ "events": [
+  {
+   "code": "MS",
+   "name": "Đơn nam",
+   "type": "don",
+   "format": "knockout",
+   "locked": true,
+   "scoring": {
+    "setsToWin": 2,
+    "pointsPerSet": 21
+   },
+   "teamRubbers": null,
+   "standings": {},
+   "ranking": [
+    {
+     "rank": 1,
+     "rankLabel": "1",
+     "display": {
+      "id": "P013",
+      "name": "Đinh Hoàng Anh",
+      "club": ""
+     }
+    },
+    {
+     "rank": 2,
+     "rankLabel": "2",
+     "display": {
+      "id": "P031",
+      "name": "Huỳnh Tấn Hưng",
+      "club": ""
+     }
+    },
+    {
+     "rank": 3,
+     "rankLabel": "3",
+     "display": {
+      "id": "P027",
+      "name": "Huỳnh Ngọc Bảo",
+      "club": ""
+     }
+    },
+    {
+     "rank": 4,
+     "rankLabel": "4",
+     "display": {
+      "id": "P024",
+      "name": "Huỳnh Dương Viết Khải",
+      "club": ""
+     }
+    },
+    {
+     "rank": 5,
+     "rankLabel": "5–8",
+     "display": {
+      "id": "P025",
+      "name": "Huỳnh Kim Đạt",
+      "club": ""
+     }
+    },
+    {
+     "rank": 5,
+     "rankLabel": "5–8",
+     "display": {
+      "id": "P021",
+      "name": "Hồ Nhật Trường",
+      "club": ""
+     }
+    },
+    {
+     "rank": 5,
+     "rankLabel": "5–8",
+     "display": {
+      "id": "P006",
+      "name": "Châu Vũ Phong",
+      "club": ""
+     }
+    }
+   ]
+  }
+ ],
+ "matches": [
+  {
+   "id": "MS-R1-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Tứ kết",
+   "pos": 1,
+   "sideA": {
+    "id": "P031",
+    "name": "Huỳnh Tấn Hưng",
+    "club": ""
+   },
+   "sideB": {
+    "id": "P025",
+    "name": "Huỳnh Kim Đạt",
+    "club": ""
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": 1,
+   "dayLabel": "16/09/2026",
+   "session": 0,
+   "court": 1,
+   "time": "07:30",
+   "sets": [
+    [
+     21,
+     12
+    ],
+    [
+     21,
+     10
+    ]
+   ],
+   "walkover": null,
+   "winner": "P031",
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-2",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Tứ kết",
+   "pos": 2,
+   "sideA": {
+    "id": "P021",
+    "name": "Hồ Nhật Trường",
+    "club": ""
+   },
+   "sideB": {
+    "id": "P024",
+    "name": "Huỳnh Dương Viết Khải",
+    "club": ""
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": 1,
+   "dayLabel": "16/09/2026",
+   "session": 1,
+   "court": 1,
+   "time": "13:30",
+   "sets": [
+    [
+     11,
+     21
+    ],
+    [
+     15,
+     21
+    ]
+   ],
+   "walkover": null,
+   "winner": "P024",
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-3",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Tứ kết",
+   "pos": 3,
+   "sideA": null,
+   "sideB": {
+    "id": "P027",
+    "name": "Huỳnh Ngọc Bảo",
+    "club": ""
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": null,
+   "dayLabel": null,
+   "session": null,
+   "court": null,
+   "time": null,
+   "sets": [],
+   "walkover": "BYE",
+   "winner": "P027",
+   "subMatches": null
+  },
+  {
+   "id": "MS-R1-4",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 1,
+   "roundName": "Tứ kết",
+   "pos": 4,
+   "sideA": {
+    "id": "P013",
+    "name": "Đinh Hoàng Anh",
+    "club": ""
+   },
+   "sideB": {
+    "id": "P006",
+    "name": "Châu Vũ Phong",
+    "club": ""
+   },
+   "srcA": null,
+   "srcB": null,
+   "status": "da_dau",
+   "day": 1,
+   "dayLabel": "16/09/2026",
+   "session": 0,
+   "court": 2,
+   "time": "07:30",
+   "sets": [
+    [
+     11,
+     21
+    ],
+    [
+     21,
+     10
+    ],
+    [
+     21,
+     11
+    ]
+   ],
+   "walkover": null,
+   "winner": "P013",
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Bán kết",
+   "pos": 1,
+   "sideA": {
+    "id": "P031",
+    "name": "Huỳnh Tấn Hưng",
+    "club": ""
+   },
+   "sideB": {
+    "id": "P024",
+    "name": "Huỳnh Dương Viết Khải",
+    "club": ""
+   },
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-2"
+   },
+   "status": "da_dau",
+   "day": 1,
+   "dayLabel": "16/09/2026",
+   "session": 1,
+   "court": 2,
+   "time": "14:30",
+   "sets": [
+    [
+     14,
+     21
+    ],
+    [
+     21,
+     15
+    ],
+    [
+     21,
+     10
+    ]
+   ],
+   "walkover": null,
+   "winner": "P031",
+   "subMatches": null
+  },
+  {
+   "id": "MS-R2-2",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 2,
+   "roundName": "Bán kết",
+   "pos": 2,
+   "sideA": {
+    "id": "P027",
+    "name": "Huỳnh Ngọc Bảo",
+    "club": ""
+   },
+   "sideB": {
+    "id": "P013",
+    "name": "Đinh Hoàng Anh",
+    "club": ""
+   },
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R1-3"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R1-4"
+   },
+   "status": "da_dau",
+   "day": 1,
+   "dayLabel": "16/09/2026",
+   "session": 0,
+   "court": 3,
+   "time": "08:30",
+   "sets": [
+    [
+     10,
+     21
+    ],
+    [
+     15,
+     21
+    ]
+   ],
+   "walkover": null,
+   "winner": "P013",
+   "subMatches": null
+  },
+  {
+   "id": "MS-R3-1",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Chung kết",
+   "pos": 1,
+   "sideA": {
+    "id": "P031",
+    "name": "Huỳnh Tấn Hưng",
+    "club": ""
+   },
+   "sideB": {
+    "id": "P013",
+    "name": "Đinh Hoàng Anh",
+    "club": ""
+   },
+   "srcA": {
+    "type": "winner",
+    "match": "MS-R2-1"
+   },
+   "srcB": {
+    "type": "winner",
+    "match": "MS-R2-2"
+   },
+   "status": "da_dau",
+   "day": 1,
+   "dayLabel": "16/09/2026",
+   "session": 1,
+   "court": 4,
+   "time": "15:30",
+   "sets": [
+    [
+     11,
+     21
+    ],
+    [
+     15,
+     21
+    ]
+   ],
+   "walkover": null,
+   "winner": "P013",
+   "subMatches": null
+  },
+  {
+   "id": "MS-3RD",
+   "eventId": "MS",
+   "eventName": "Đơn nam",
+   "stage": "ko",
+   "group": null,
+   "round": 3,
+   "roundName": "Tranh hạng 3–4",
+   "pos": 0,
+   "sideA": {
+    "id": "P024",
+    "name": "Huỳnh Dương Viết Khải",
+    "club": ""
+   },
+   "sideB": {
+    "id": "P027",
+    "name": "Huỳnh Ngọc Bảo",
+    "club": ""
+   },
+   "srcA": {
+    "type": "loser",
+    "match": "MS-R2-1"
+   },
+   "srcB": {
+    "type": "loser",
+    "match": "MS-R2-2"
+   },
+   "status": "da_dau",
+   "day": 1,
+   "dayLabel": "16/09/2026",
+   "session": 1,
+   "court": 3,
+   "time": "15:30",
+   "sets": [
+    [
+     14,
+     21
+    ],
+    [
+     15,
+     21
+    ]
+   ],
+   "walkover": null,
+   "winner": "P027",
+   "subMatches": null
+  }
+ ]
+}
